@@ -7,13 +7,13 @@
 </head>
 <body>
     <h1>Submit Your Feedback</h1>
-    <nav>
-        <a href="/">Home</a> |
-        <a href="/charts">Crime Charts</a> |
-        <a href="/feedback">Submit Feedback</a> |
-        <a href="/feedback_summary">Feedback Summary</a> |
-        <a href="/recommendations">Safety Recommendations</a>
+    <nav class="navbar">
+        <a href="{{ url_for('home') }}" class="{{ 'active' if current_path == url_for('home') else '' }}">Home</a>
+        <a href="{{ url_for('charts') }}" class="{{ 'active' if current_path == url_for('charts') else '' }}">Charts</a>
+        <a href="{{ url_for('feedback') }}" class="{{ 'active' if current_path == url_for('feedback') else '' }}">Feedback</a>
+        <a href="{{ url_for('recommendations') }}" class="{{ 'active' if current_path == url_for('recommendations') else '' }}">Recommendations</a>
     </nav>
+    
     
     <form action="/submit_feedback" method="POST" onsubmit="return validateForm()">
         <label for="name">Your Name:</label>
