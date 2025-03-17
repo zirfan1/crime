@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crime Data - Charts</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Crime Data Visualizations</h1>
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/charts">Crime Charts</a> |
+        <a href="/feedback">Submit Feedback</a> |
+        <a href="/feedback_summary">Feedback Summary</a> |
+        <a href="/recommendations">Safety Recommendations</a>
+    </nav>
+    
+    <label for="year-filter">Select Year:</label>
+    <select id="year-filter">
+        <option value="">All Years</option>
+        {% for year in years %}
+        <option value="{{ year }}">{{ year }}</option>
+        {% endfor %}
+    </select>
+
+    <label for="type-filter">Select Crime Type:</label>
+    <select id="type-filter">
+        <option value="">All Types</option>
+        {% for crime in crime_types %}
+        <option value="{{ crime }}">{{ crime }}</option>
+        {% endfor %}
+    </select>
+
+    <button onclick="updateCharts()">Filter</button>
+
+    <h2>Crime by Garda Region</h2>
+    <div id="bar-chart"></div>
+
+    <h2>Crime Distribution by Type</h2>
+    <div id="pie-chart"></div>
+
+    <script>
+        function updateCharts() {
+            let year = document.getElementById("year-filter").value;
+            let crimeType = document.getElementById("type-filter").value;
+
+            fetch(`/bar_chart_data?year=${year}&type=${crimeType}`)
+                .then(response => response.json())
+                .then(data => {
+                    let fig = {
+                        x: data.map(row => row.garda_region),
+                        y: data.map(row => row.value),
+                        type: "bar",
+                    };
+                    Plotly.newPlot("bar-chart", [fig]);
+                });
+
+            fetch(`/crime_pie_chart`)
+                .then(response => response.json())
+                .then(data => {
+                    let fig = JSON.parse(data);
+                    Plotly.newPlot("pie-chart", fig.data, fig.layout);
+                });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crime Data Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-2.26.0.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Crime Data Dashboard</h1>
+        <nav>
+            <a href="/">Home</a> |
+            <a href="/charts">Crime Charts</a> |
+            <a href="/feedback">Submit Feedback</a> |
+            <a href="/feedback_summary">Feedback Summary</a> |
+            <a href="/recommendations">Safety Recommendations</a>
+        </nav>
+        
+        <h2>Crime Summary by Garda Region</h2>
+        <div class="table-container">
+            {{ table|safe }}
+        </div>
+
+        <h2>Crime Visualizations</h2>
+
+        <label for="crimeFilter">Filter by Crime Type:</label>
+        <select id="crimeFilter">
+            <option value="all">All Crimes</option>
+            {% for crime in crime_types %}
+                <option value="{{ crime }}">{{ crime }}</option>
+            {% endfor %}
+        </select>
+
+        <!-- Bar Chart -->
+        <div class="chart-container">
+            <h3>Crime Count by Garda Region</h3>
+            <div id="bar_chart"></div>
+        </div>
+
+        <!-- Pie Chart -->
+        <div class="chart-container">
+            <h3>Crime Distribution</h3>
+            <div id="pie_chart"></div>
+        </div>
+    </div>
+
+    <script>
+        var crimeData = {{ crime_data|tojson|safe }};
+
+        function updateCharts(filter) {
+            let filteredData = crimeData;
+
+            if (filter !== "all") {
+                filteredData = crimeData.filter(d => d.type_of_offence === filter);
+            }
+
+            let regions = filteredData.map(d => d.garda_region);
+            let values = filteredData.map(d => d.value);
+
+            Plotly.react("bar_chart", [{ x: regions, y: values, type: "bar", marker: { color: "blue" }}], { title: "Crime Count by Garda Region" });
+            Plotly.react("pie_chart", [{ labels: regions, values: values, type: "pie" }], { title: "Crime Distribution" });
+        }
+
+        document.getElementById("crimeFilter").addEventListener("change", function() {
+            updateCharts(this.value);
+        });
+
+        updateCharts("all");
+    </script>
+
+</body>
+</html>

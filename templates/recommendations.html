@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crime Safety Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Crime Safety Recommendations</h1>
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/charts">Crime Charts</a> |
+        <a href="/feedback">Submit Feedback</a> |
+        <a href="/feedback_summary">Feedback Summary</a> |
+        <a href="/recommendations">Safety Recommendations</a>
+    </nav>
+    
+    <div class="table-container">
+        {{ recommendations|safe }}
+    </div>
+</body>
+</html>

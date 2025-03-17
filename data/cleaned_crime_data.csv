@@ -1,0 +1,1681 @@
+statistic,statistic_label,tlist(a1),year,c02480v03003,type_of_offence,c02479v04377,garda_region,unit,value
+RCD06C01,Recorded crimes,2018,2018,1,Homicide Offences,10,Dublin Metropolitan Region,Number,24.0
+RCD06C01,Recorded crimes,2018,2018,1,Homicide Offences,20,North Western Region,Number,25.0
+RCD06C01,Recorded crimes,2018,2018,1,Homicide Offences,30,Eastern Region,Number,17.0
+RCD06C01,Recorded crimes,2018,2018,1,Homicide Offences,40,Southern Region,Number,22.0
+RCD06C01,Recorded crimes,2018,2018,1,Homicide Offences,IE0,State,Number,88.0
+RCD06C01,Recorded crimes,2018,2018,2,Sexual Offences,10,Dublin Metropolitan Region,Number,960.0
+RCD06C01,Recorded crimes,2018,2018,2,Sexual Offences,20,North Western Region,Number,675.0
+RCD06C01,Recorded crimes,2018,2018,2,Sexual Offences,30,Eastern Region,Number,829.0
+RCD06C01,Recorded crimes,2018,2018,2,Sexual Offences,40,Southern Region,Number,750.0
+RCD06C01,Recorded crimes,2018,2018,2,Sexual Offences,IE0,State,Number,3214.0
+RCD06C01,Recorded crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,6620.0
+RCD06C01,Recorded crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,4328.0
+RCD06C01,Recorded crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,4728.0
+RCD06C01,Recorded crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,4511.0
+RCD06C01,Recorded crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,20187.0
+RCD06C01,Recorded crimes,2018,2018,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1814.0
+RCD06C01,Recorded crimes,2018,2018,4,Dangerous or Negligent Acts,20,North Western Region,Number,2129.0
+RCD06C01,Recorded crimes,2018,2018,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2319.0
+RCD06C01,Recorded crimes,2018,2018,4,Dangerous or Negligent Acts,40,Southern Region,Number,2298.0
+RCD06C01,Recorded crimes,2018,2018,4,Dangerous or Negligent Acts,IE0,State,Number,8560.0
+RCD06C01,Recorded crimes,2018,2018,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,50.0
+RCD06C01,Recorded crimes,2018,2018,5,Kidnapping and Related Offences,20,North Western Region,Number,30.0
+RCD06C01,Recorded crimes,2018,2018,5,Kidnapping and Related Offences,30,Eastern Region,Number,24.0
+RCD06C01,Recorded crimes,2018,2018,5,Kidnapping and Related Offences,40,Southern Region,Number,31.0
+RCD06C01,Recorded crimes,2018,2018,5,Kidnapping and Related Offences,IE0,State,Number,135.0
+RCD06C01,Recorded crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,1792.0
+RCD06C01,Recorded crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,165.0
+RCD06C01,Recorded crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,253.0
+RCD06C01,Recorded crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,237.0
+RCD06C01,Recorded crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,2447.0
+RCD06C01,Recorded crimes,2018,2018,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,7612.0
+RCD06C01,Recorded crimes,2018,2018,7,Burglary and Related Offences,20,North Western Region,Number,2607.0
+RCD06C01,Recorded crimes,2018,2018,7,Burglary and Related Offences,30,Eastern Region,Number,3995.0
+RCD06C01,Recorded crimes,2018,2018,7,Burglary and Related Offences,40,Southern Region,Number,2744.0
+RCD06C01,Recorded crimes,2018,2018,7,Burglary and Related Offences,IE0,State,Number,16958.0
+RCD06C01,Recorded crimes,2018,2018,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,35409.0
+RCD06C01,Recorded crimes,2018,2018,8,Theft and Related Offences,20,North Western Region,Number,7386.0
+RCD06C01,Recorded crimes,2018,2018,8,Theft and Related Offences,30,Eastern Region,Number,12354.0
+RCD06C01,Recorded crimes,2018,2018,8,Theft and Related Offences,40,Southern Region,Number,11790.0
+RCD06C01,Recorded crimes,2018,2018,8,Theft and Related Offences,IE0,State,Number,66939.0
+RCD06C01,Recorded crimes,2018,2018,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,2821.0
+RCD06C01,Recorded crimes,2018,2018,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,1070.0
+RCD06C01,Recorded crimes,2018,2018,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,1354.0
+RCD06C01,Recorded crimes,2018,2018,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,1063.0
+RCD06C01,Recorded crimes,2018,2018,9,"Fraud, Deception and Related Offences",IE0,State,Number,6308.0
+RCD06C01,Recorded crimes,2018,2018,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,6876.0
+RCD06C01,Recorded crimes,2018,2018,10,Controlled Drug Offences,20,North Western Region,Number,2209.0
+RCD06C01,Recorded crimes,2018,2018,10,Controlled Drug Offences,30,Eastern Region,Number,5086.0
+RCD06C01,Recorded crimes,2018,2018,10,Controlled Drug Offences,40,Southern Region,Number,4103.0
+RCD06C01,Recorded crimes,2018,2018,10,Controlled Drug Offences,IE0,State,Number,18274.0
+RCD06C01,Recorded crimes,2018,2018,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1147.0
+RCD06C01,Recorded crimes,2018,2018,11,Weapons and Explosives Offences,20,North Western Region,Number,391.0
+RCD06C01,Recorded crimes,2018,2018,11,Weapons and Explosives Offences,30,Eastern Region,Number,442.0
+RCD06C01,Recorded crimes,2018,2018,11,Weapons and Explosives Offences,40,Southern Region,Number,462.0
+RCD06C01,Recorded crimes,2018,2018,11,Weapons and Explosives Offences,IE0,State,Number,2442.0
+RCD06C01,Recorded crimes,2018,2018,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,8473.0
+RCD06C01,Recorded crimes,2018,2018,12,Damage to Property and to the Environment,20,North Western Region,Number,3776.0
+RCD06C01,Recorded crimes,2018,2018,12,Damage to Property and to the Environment,30,Eastern Region,Number,4714.0
+RCD06C01,Recorded crimes,2018,2018,12,Damage to Property and to the Environment,40,Southern Region,Number,4552.0
+RCD06C01,Recorded crimes,2018,2018,12,Damage to Property and to the Environment,IE0,State,Number,21515.0
+RCD06C01,Recorded crimes,2018,2018,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,10416.0
+RCD06C01,Recorded crimes,2018,2018,13,Public Order and other Social Code Offences,20,North Western Region,Number,6939.0
+RCD06C01,Recorded crimes,2018,2018,13,Public Order and other Social Code Offences,30,Eastern Region,Number,5969.0
+RCD06C01,Recorded crimes,2018,2018,13,Public Order and other Social Code Offences,40,Southern Region,Number,8640.0
+RCD06C01,Recorded crimes,2018,2018,13,Public Order and other Social Code Offences,IE0,State,Number,31964.0
+RCD06C01,Recorded crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,9284.0
+RCD06C01,Recorded crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1621.0
+RCD06C01,Recorded crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,2579.0
+RCD06C01,Recorded crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,3101.0
+RCD06C01,Recorded crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,16585.0
+RCD06C01,Recorded crimes,2019,2019,1,Homicide Offences,10,Dublin Metropolitan Region,Number,25.0
+RCD06C01,Recorded crimes,2019,2019,1,Homicide Offences,20,North Western Region,Number,12.0
+RCD06C01,Recorded crimes,2019,2019,1,Homicide Offences,30,Eastern Region,Number,11.0
+RCD06C01,Recorded crimes,2019,2019,1,Homicide Offences,40,Southern Region,Number,16.0
+RCD06C01,Recorded crimes,2019,2019,1,Homicide Offences,IE0,State,Number,64.0
+RCD06C01,Recorded crimes,2019,2019,2,Sexual Offences,10,Dublin Metropolitan Region,Number,1055.0
+RCD06C01,Recorded crimes,2019,2019,2,Sexual Offences,20,North Western Region,Number,717.0
+RCD06C01,Recorded crimes,2019,2019,2,Sexual Offences,30,Eastern Region,Number,831.0
+RCD06C01,Recorded crimes,2019,2019,2,Sexual Offences,40,Southern Region,Number,757.0
+RCD06C01,Recorded crimes,2019,2019,2,Sexual Offences,IE0,State,Number,3360.0
+RCD06C01,Recorded crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,7474.0
+RCD06C01,Recorded crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,4622.0
+RCD06C01,Recorded crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,4724.0
+RCD06C01,Recorded crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,5019.0
+RCD06C01,Recorded crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,21839.0
+RCD06C01,Recorded crimes,2019,2019,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1977.0
+RCD06C01,Recorded crimes,2019,2019,4,Dangerous or Negligent Acts,20,North Western Region,Number,2131.0
+RCD06C01,Recorded crimes,2019,2019,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2345.0
+RCD06C01,Recorded crimes,2019,2019,4,Dangerous or Negligent Acts,40,Southern Region,Number,2250.0
+RCD06C01,Recorded crimes,2019,2019,4,Dangerous or Negligent Acts,IE0,State,Number,8703.0
+RCD06C01,Recorded crimes,2019,2019,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,39.0
+RCD06C01,Recorded crimes,2019,2019,5,Kidnapping and Related Offences,20,North Western Region,Number,27.0
+RCD06C01,Recorded crimes,2019,2019,5,Kidnapping and Related Offences,30,Eastern Region,Number,20.0
+RCD06C01,Recorded crimes,2019,2019,5,Kidnapping and Related Offences,40,Southern Region,Number,41.0
+RCD06C01,Recorded crimes,2019,2019,5,Kidnapping and Related Offences,IE0,State,Number,127.0
+RCD06C01,Recorded crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,1592.0
+RCD06C01,Recorded crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,222.0
+RCD06C01,Recorded crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,254.0
+RCD06C01,Recorded crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,276.0
+RCD06C01,Recorded crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,2344.0
+RCD06C01,Recorded crimes,2019,2019,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,7721.0
+RCD06C01,Recorded crimes,2019,2019,7,Burglary and Related Offences,20,North Western Region,Number,2346.0
+RCD06C01,Recorded crimes,2019,2019,7,Burglary and Related Offences,30,Eastern Region,Number,4178.0
+RCD06C01,Recorded crimes,2019,2019,7,Burglary and Related Offences,40,Southern Region,Number,2504.0
+RCD06C01,Recorded crimes,2019,2019,7,Burglary and Related Offences,IE0,State,Number,16749.0
+RCD06C01,Recorded crimes,2019,2019,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,37020.0
+RCD06C01,Recorded crimes,2019,2019,8,Theft and Related Offences,20,North Western Region,Number,7433.0
+RCD06C01,Recorded crimes,2019,2019,8,Theft and Related Offences,30,Eastern Region,Number,12603.0
+RCD06C01,Recorded crimes,2019,2019,8,Theft and Related Offences,40,Southern Region,Number,11125.0
+RCD06C01,Recorded crimes,2019,2019,8,Theft and Related Offences,IE0,State,Number,68181.0
+RCD06C01,Recorded crimes,2019,2019,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,3518.0
+RCD06C01,Recorded crimes,2019,2019,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,1337.0
+RCD06C01,Recorded crimes,2019,2019,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,1611.0
+RCD06C01,Recorded crimes,2019,2019,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,1456.0
+RCD06C01,Recorded crimes,2019,2019,9,"Fraud, Deception and Related Offences",IE0,State,Number,7922.0
+RCD06C01,Recorded crimes,2019,2019,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,8355.0
+RCD06C01,Recorded crimes,2019,2019,10,Controlled Drug Offences,20,North Western Region,Number,2806.0
+RCD06C01,Recorded crimes,2019,2019,10,Controlled Drug Offences,30,Eastern Region,Number,5825.0
+RCD06C01,Recorded crimes,2019,2019,10,Controlled Drug Offences,40,Southern Region,Number,4322.0
+RCD06C01,Recorded crimes,2019,2019,10,Controlled Drug Offences,IE0,State,Number,21308.0
+RCD06C01,Recorded crimes,2019,2019,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1255.0
+RCD06C01,Recorded crimes,2019,2019,11,Weapons and Explosives Offences,20,North Western Region,Number,455.0
+RCD06C01,Recorded crimes,2019,2019,11,Weapons and Explosives Offences,30,Eastern Region,Number,474.0
+RCD06C01,Recorded crimes,2019,2019,11,Weapons and Explosives Offences,40,Southern Region,Number,503.0
+RCD06C01,Recorded crimes,2019,2019,11,Weapons and Explosives Offences,IE0,State,Number,2687.0
+RCD06C01,Recorded crimes,2019,2019,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,8866.0
+RCD06C01,Recorded crimes,2019,2019,12,Damage to Property and to the Environment,20,North Western Region,Number,3968.0
+RCD06C01,Recorded crimes,2019,2019,12,Damage to Property and to the Environment,30,Eastern Region,Number,4653.0
+RCD06C01,Recorded crimes,2019,2019,12,Damage to Property and to the Environment,40,Southern Region,Number,4431.0
+RCD06C01,Recorded crimes,2019,2019,12,Damage to Property and to the Environment,IE0,State,Number,21918.0
+RCD06C01,Recorded crimes,2019,2019,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,10929.0
+RCD06C01,Recorded crimes,2019,2019,13,Public Order and other Social Code Offences,20,North Western Region,Number,7262.0
+RCD06C01,Recorded crimes,2019,2019,13,Public Order and other Social Code Offences,30,Eastern Region,Number,6229.0
+RCD06C01,Recorded crimes,2019,2019,13,Public Order and other Social Code Offences,40,Southern Region,Number,7970.0
+RCD06C01,Recorded crimes,2019,2019,13,Public Order and other Social Code Offences,IE0,State,Number,32390.0
+RCD06C01,Recorded crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,10309.0
+RCD06C01,Recorded crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,2159.0
+RCD06C01,Recorded crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,2863.0
+RCD06C01,Recorded crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,2742.0
+RCD06C01,Recorded crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,18073.0
+RCD06C01,Recorded crimes,2020,2020,1,Homicide Offences,10,Dublin Metropolitan Region,Number,23.0
+RCD06C01,Recorded crimes,2020,2020,1,Homicide Offences,20,North Western Region,Number,14.0
+RCD06C01,Recorded crimes,2020,2020,1,Homicide Offences,30,Eastern Region,Number,16.0
+RCD06C01,Recorded crimes,2020,2020,1,Homicide Offences,40,Southern Region,Number,19.0
+RCD06C01,Recorded crimes,2020,2020,1,Homicide Offences,IE0,State,Number,72.0
+RCD06C01,Recorded crimes,2020,2020,2,Sexual Offences,10,Dublin Metropolitan Region,Number,956.0
+RCD06C01,Recorded crimes,2020,2020,2,Sexual Offences,20,North Western Region,Number,620.0
+RCD06C01,Recorded crimes,2020,2020,2,Sexual Offences,30,Eastern Region,Number,817.0
+RCD06C01,Recorded crimes,2020,2020,2,Sexual Offences,40,Southern Region,Number,689.0
+RCD06C01,Recorded crimes,2020,2020,2,Sexual Offences,IE0,State,Number,3082.0
+RCD06C01,Recorded crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,6672.0
+RCD06C01,Recorded crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,4013.0
+RCD06C01,Recorded crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,4229.0
+RCD06C01,Recorded crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,4157.0
+RCD06C01,Recorded crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,19071.0
+RCD06C01,Recorded crimes,2020,2020,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,2432.0
+RCD06C01,Recorded crimes,2020,2020,4,Dangerous or Negligent Acts,20,North Western Region,Number,2108.0
+RCD06C01,Recorded crimes,2020,2020,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2139.0
+RCD06C01,Recorded crimes,2020,2020,4,Dangerous or Negligent Acts,40,Southern Region,Number,2067.0
+RCD06C01,Recorded crimes,2020,2020,4,Dangerous or Negligent Acts,IE0,State,Number,8746.0
+RCD06C01,Recorded crimes,2020,2020,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,52.0
+RCD06C01,Recorded crimes,2020,2020,5,Kidnapping and Related Offences,20,North Western Region,Number,38.0
+RCD06C01,Recorded crimes,2020,2020,5,Kidnapping and Related Offences,30,Eastern Region,Number,23.0
+RCD06C01,Recorded crimes,2020,2020,5,Kidnapping and Related Offences,40,Southern Region,Number,21.0
+RCD06C01,Recorded crimes,2020,2020,5,Kidnapping and Related Offences,IE0,State,Number,134.0
+RCD06C01,Recorded crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,1272.0
+RCD06C01,Recorded crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,133.0
+RCD06C01,Recorded crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,213.0
+RCD06C01,Recorded crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,201.0
+RCD06C01,Recorded crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,1819.0
+RCD06C01,Recorded crimes,2020,2020,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,5143.0
+RCD06C01,Recorded crimes,2020,2020,7,Burglary and Related Offences,20,North Western Region,Number,1545.0
+RCD06C01,Recorded crimes,2020,2020,7,Burglary and Related Offences,30,Eastern Region,Number,2400.0
+RCD06C01,Recorded crimes,2020,2020,7,Burglary and Related Offences,40,Southern Region,Number,1797.0
+RCD06C01,Recorded crimes,2020,2020,7,Burglary and Related Offences,IE0,State,Number,10885.0
+RCD06C01,Recorded crimes,2020,2020,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,27607.0
+RCD06C01,Recorded crimes,2020,2020,8,Theft and Related Offences,20,North Western Region,Number,5826.0
+RCD06C01,Recorded crimes,2020,2020,8,Theft and Related Offences,30,Eastern Region,Number,9205.0
+RCD06C01,Recorded crimes,2020,2020,8,Theft and Related Offences,40,Southern Region,Number,8868.0
+RCD06C01,Recorded crimes,2020,2020,8,Theft and Related Offences,IE0,State,Number,51506.0
+RCD06C01,Recorded crimes,2020,2020,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,3308.0
+RCD06C01,Recorded crimes,2020,2020,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,1450.0
+RCD06C01,Recorded crimes,2020,2020,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,1654.0
+RCD06C01,Recorded crimes,2020,2020,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,1452.0
+RCD06C01,Recorded crimes,2020,2020,9,"Fraud, Deception and Related Offences",IE0,State,Number,7864.0
+RCD06C01,Recorded crimes,2020,2020,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,9632.0
+RCD06C01,Recorded crimes,2020,2020,10,Controlled Drug Offences,20,North Western Region,Number,3398.0
+RCD06C01,Recorded crimes,2020,2020,10,Controlled Drug Offences,30,Eastern Region,Number,4950.0
+RCD06C01,Recorded crimes,2020,2020,10,Controlled Drug Offences,40,Southern Region,Number,5142.0
+RCD06C01,Recorded crimes,2020,2020,10,Controlled Drug Offences,IE0,State,Number,23122.0
+RCD06C01,Recorded crimes,2020,2020,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1357.0
+RCD06C01,Recorded crimes,2020,2020,11,Weapons and Explosives Offences,20,North Western Region,Number,509.0
+RCD06C01,Recorded crimes,2020,2020,11,Weapons and Explosives Offences,30,Eastern Region,Number,605.0
+RCD06C01,Recorded crimes,2020,2020,11,Weapons and Explosives Offences,40,Southern Region,Number,621.0
+RCD06C01,Recorded crimes,2020,2020,11,Weapons and Explosives Offences,IE0,State,Number,3092.0
+RCD06C01,Recorded crimes,2020,2020,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,7854.0
+RCD06C01,Recorded crimes,2020,2020,12,Damage to Property and to the Environment,20,North Western Region,Number,3522.0
+RCD06C01,Recorded crimes,2020,2020,12,Damage to Property and to the Environment,30,Eastern Region,Number,4280.0
+RCD06C01,Recorded crimes,2020,2020,12,Damage to Property and to the Environment,40,Southern Region,Number,3870.0
+RCD06C01,Recorded crimes,2020,2020,12,Damage to Property and to the Environment,IE0,State,Number,19526.0
+RCD06C01,Recorded crimes,2020,2020,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,11481.0
+RCD06C01,Recorded crimes,2020,2020,13,Public Order and other Social Code Offences,20,North Western Region,Number,5544.0
+RCD06C01,Recorded crimes,2020,2020,13,Public Order and other Social Code Offences,30,Eastern Region,Number,5189.0
+RCD06C01,Recorded crimes,2020,2020,13,Public Order and other Social Code Offences,40,Southern Region,Number,6812.0
+RCD06C01,Recorded crimes,2020,2020,13,Public Order and other Social Code Offences,IE0,State,Number,29026.0
+RCD06C01,Recorded crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,5149.0
+RCD06C01,Recorded crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1480.0
+RCD06C01,Recorded crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,2061.0
+RCD06C01,Recorded crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,2311.0
+RCD06C01,Recorded crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,11001.0
+RCD06C01,Recorded crimes,2021,2021,1,Homicide Offences,10,Dublin Metropolitan Region,Number,19.0
+RCD06C01,Recorded crimes,2021,2021,1,Homicide Offences,20,North Western Region,Number,12.0
+RCD06C01,Recorded crimes,2021,2021,1,Homicide Offences,30,Eastern Region,Number,12.0
+RCD06C01,Recorded crimes,2021,2021,1,Homicide Offences,40,Southern Region,Number,13.0
+RCD06C01,Recorded crimes,2021,2021,1,Homicide Offences,IE0,State,Number,56.0
+RCD06C01,Recorded crimes,2021,2021,2,Sexual Offences,10,Dublin Metropolitan Region,Number,1071.0
+RCD06C01,Recorded crimes,2021,2021,2,Sexual Offences,20,North Western Region,Number,766.0
+RCD06C01,Recorded crimes,2021,2021,2,Sexual Offences,30,Eastern Region,Number,901.0
+RCD06C01,Recorded crimes,2021,2021,2,Sexual Offences,40,Southern Region,Number,792.0
+RCD06C01,Recorded crimes,2021,2021,2,Sexual Offences,IE0,State,Number,3530.0
+RCD06C01,Recorded crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,6731.0
+RCD06C01,Recorded crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,4414.0
+RCD06C01,Recorded crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,4597.0
+RCD06C01,Recorded crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,4574.0
+RCD06C01,Recorded crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,20316.0
+RCD06C01,Recorded crimes,2021,2021,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,2136.0
+RCD06C01,Recorded crimes,2021,2021,4,Dangerous or Negligent Acts,20,North Western Region,Number,2149.0
+RCD06C01,Recorded crimes,2021,2021,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2039.0
+RCD06C01,Recorded crimes,2021,2021,4,Dangerous or Negligent Acts,40,Southern Region,Number,1956.0
+RCD06C01,Recorded crimes,2021,2021,4,Dangerous or Negligent Acts,IE0,State,Number,8280.0
+RCD06C01,Recorded crimes,2021,2021,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,43.0
+RCD06C01,Recorded crimes,2021,2021,5,Kidnapping and Related Offences,20,North Western Region,Number,30.0
+RCD06C01,Recorded crimes,2021,2021,5,Kidnapping and Related Offences,30,Eastern Region,Number,39.0
+RCD06C01,Recorded crimes,2021,2021,5,Kidnapping and Related Offences,40,Southern Region,Number,36.0
+RCD06C01,Recorded crimes,2021,2021,5,Kidnapping and Related Offences,IE0,State,Number,148.0
+RCD06C01,Recorded crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,1151.0
+RCD06C01,Recorded crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,168.0
+RCD06C01,Recorded crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,229.0
+RCD06C01,Recorded crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,190.0
+RCD06C01,Recorded crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,1738.0
+RCD06C01,Recorded crimes,2021,2021,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,3585.0
+RCD06C01,Recorded crimes,2021,2021,7,Burglary and Related Offences,20,North Western Region,Number,1378.0
+RCD06C01,Recorded crimes,2021,2021,7,Burglary and Related Offences,30,Eastern Region,Number,2200.0
+RCD06C01,Recorded crimes,2021,2021,7,Burglary and Related Offences,40,Southern Region,Number,1420.0
+RCD06C01,Recorded crimes,2021,2021,7,Burglary and Related Offences,IE0,State,Number,8583.0
+RCD06C01,Recorded crimes,2021,2021,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,25218.0
+RCD06C01,Recorded crimes,2021,2021,8,Theft and Related Offences,20,North Western Region,Number,5180.0
+RCD06C01,Recorded crimes,2021,2021,8,Theft and Related Offences,30,Eastern Region,Number,8367.0
+RCD06C01,Recorded crimes,2021,2021,8,Theft and Related Offences,40,Southern Region,Number,8046.0
+RCD06C01,Recorded crimes,2021,2021,8,Theft and Related Offences,IE0,State,Number,46811.0
+RCD06C01,Recorded crimes,2021,2021,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,6173.0
+RCD06C01,Recorded crimes,2021,2021,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,3464.0
+RCD06C01,Recorded crimes,2021,2021,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,3953.0
+RCD06C01,Recorded crimes,2021,2021,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,3585.0
+RCD06C01,Recorded crimes,2021,2021,9,"Fraud, Deception and Related Offences",IE0,State,Number,17175.0
+RCD06C01,Recorded crimes,2021,2021,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,7545.0
+RCD06C01,Recorded crimes,2021,2021,10,Controlled Drug Offences,20,North Western Region,Number,2895.0
+RCD06C01,Recorded crimes,2021,2021,10,Controlled Drug Offences,30,Eastern Region,Number,4629.0
+RCD06C01,Recorded crimes,2021,2021,10,Controlled Drug Offences,40,Southern Region,Number,4932.0
+RCD06C01,Recorded crimes,2021,2021,10,Controlled Drug Offences,IE0,State,Number,20001.0
+RCD06C01,Recorded crimes,2021,2021,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1137.0
+RCD06C01,Recorded crimes,2021,2021,11,Weapons and Explosives Offences,20,North Western Region,Number,430.0
+RCD06C01,Recorded crimes,2021,2021,11,Weapons and Explosives Offences,30,Eastern Region,Number,442.0
+RCD06C01,Recorded crimes,2021,2021,11,Weapons and Explosives Offences,40,Southern Region,Number,521.0
+RCD06C01,Recorded crimes,2021,2021,11,Weapons and Explosives Offences,IE0,State,Number,2530.0
+RCD06C01,Recorded crimes,2021,2021,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,7697.0
+RCD06C01,Recorded crimes,2021,2021,12,Damage to Property and to the Environment,20,North Western Region,Number,3450.0
+RCD06C01,Recorded crimes,2021,2021,12,Damage to Property and to the Environment,30,Eastern Region,Number,4009.0
+RCD06C01,Recorded crimes,2021,2021,12,Damage to Property and to the Environment,40,Southern Region,Number,4147.0
+RCD06C01,Recorded crimes,2021,2021,12,Damage to Property and to the Environment,IE0,State,Number,19303.0
+RCD06C01,Recorded crimes,2021,2021,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,10343.0
+RCD06C01,Recorded crimes,2021,2021,13,Public Order and other Social Code Offences,20,North Western Region,Number,5703.0
+RCD06C01,Recorded crimes,2021,2021,13,Public Order and other Social Code Offences,30,Eastern Region,Number,5302.0
+RCD06C01,Recorded crimes,2021,2021,13,Public Order and other Social Code Offences,40,Southern Region,Number,7045.0
+RCD06C01,Recorded crimes,2021,2021,13,Public Order and other Social Code Offences,IE0,State,Number,28393.0
+RCD06C01,Recorded crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,6081.0
+RCD06C01,Recorded crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1587.0
+RCD06C01,Recorded crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,2425.0
+RCD06C01,Recorded crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,2298.0
+RCD06C01,Recorded crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,12391.0
+RCD06C01,Recorded crimes,2022,2022,1,Homicide Offences,10,Dublin Metropolitan Region,Number,23.0
+RCD06C01,Recorded crimes,2022,2022,1,Homicide Offences,20,North Western Region,Number,17.0
+RCD06C01,Recorded crimes,2022,2022,1,Homicide Offences,30,Eastern Region,Number,23.0
+RCD06C01,Recorded crimes,2022,2022,1,Homicide Offences,40,Southern Region,Number,18.0
+RCD06C01,Recorded crimes,2022,2022,1,Homicide Offences,IE0,State,Number,81.0
+RCD06C01,Recorded crimes,2022,2022,2,Sexual Offences,10,Dublin Metropolitan Region,Number,1199.0
+RCD06C01,Recorded crimes,2022,2022,2,Sexual Offences,20,North Western Region,Number,792.0
+RCD06C01,Recorded crimes,2022,2022,2,Sexual Offences,30,Eastern Region,Number,944.0
+RCD06C01,Recorded crimes,2022,2022,2,Sexual Offences,40,Southern Region,Number,865.0
+RCD06C01,Recorded crimes,2022,2022,2,Sexual Offences,IE0,State,Number,3800.0
+RCD06C01,Recorded crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,7543.0
+RCD06C01,Recorded crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,5190.0
+RCD06C01,Recorded crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,5474.0
+RCD06C01,Recorded crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,5658.0
+RCD06C01,Recorded crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,23865.0
+RCD06C01,Recorded crimes,2022,2022,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,2122.0
+RCD06C01,Recorded crimes,2022,2022,4,Dangerous or Negligent Acts,20,North Western Region,Number,2117.0
+RCD06C01,Recorded crimes,2022,2022,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2035.0
+RCD06C01,Recorded crimes,2022,2022,4,Dangerous or Negligent Acts,40,Southern Region,Number,1952.0
+RCD06C01,Recorded crimes,2022,2022,4,Dangerous or Negligent Acts,IE0,State,Number,8226.0
+RCD06C01,Recorded crimes,2022,2022,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,58.0
+RCD06C01,Recorded crimes,2022,2022,5,Kidnapping and Related Offences,20,North Western Region,Number,36.0
+RCD06C01,Recorded crimes,2022,2022,5,Kidnapping and Related Offences,30,Eastern Region,Number,32.0
+RCD06C01,Recorded crimes,2022,2022,5,Kidnapping and Related Offences,40,Southern Region,Number,33.0
+RCD06C01,Recorded crimes,2022,2022,5,Kidnapping and Related Offences,IE0,State,Number,159.0
+RCD06C01,Recorded crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,1201.0
+RCD06C01,Recorded crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,204.0
+RCD06C01,Recorded crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,348.0
+RCD06C01,Recorded crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,316.0
+RCD06C01,Recorded crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,2069.0
+RCD06C01,Recorded crimes,2022,2022,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,4059.0
+RCD06C01,Recorded crimes,2022,2022,7,Burglary and Related Offences,20,North Western Region,Number,1421.0
+RCD06C01,Recorded crimes,2022,2022,7,Burglary and Related Offences,30,Eastern Region,Number,2495.0
+RCD06C01,Recorded crimes,2022,2022,7,Burglary and Related Offences,40,Southern Region,Number,1485.0
+RCD06C01,Recorded crimes,2022,2022,7,Burglary and Related Offences,IE0,State,Number,9460.0
+RCD06C01,Recorded crimes,2022,2022,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,35126.0
+RCD06C01,Recorded crimes,2022,2022,8,Theft and Related Offences,20,North Western Region,Number,6947.0
+RCD06C01,Recorded crimes,2022,2022,8,Theft and Related Offences,30,Eastern Region,Number,12179.0
+RCD06C01,Recorded crimes,2022,2022,8,Theft and Related Offences,40,Southern Region,Number,11694.0
+RCD06C01,Recorded crimes,2022,2022,8,Theft and Related Offences,IE0,State,Number,65946.0
+RCD06C01,Recorded crimes,2022,2022,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,4680.0
+RCD06C01,Recorded crimes,2022,2022,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,2190.0
+RCD06C01,Recorded crimes,2022,2022,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,2401.0
+RCD06C01,Recorded crimes,2022,2022,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,2442.0
+RCD06C01,Recorded crimes,2022,2022,9,"Fraud, Deception and Related Offences",IE0,State,Number,11713.0
+RCD06C01,Recorded crimes,2022,2022,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,6623.0
+RCD06C01,Recorded crimes,2022,2022,10,Controlled Drug Offences,20,North Western Region,Number,2205.0
+RCD06C01,Recorded crimes,2022,2022,10,Controlled Drug Offences,30,Eastern Region,Number,4625.0
+RCD06C01,Recorded crimes,2022,2022,10,Controlled Drug Offences,40,Southern Region,Number,3833.0
+RCD06C01,Recorded crimes,2022,2022,10,Controlled Drug Offences,IE0,State,Number,17286.0
+RCD06C01,Recorded crimes,2022,2022,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1187.0
+RCD06C01,Recorded crimes,2022,2022,11,Weapons and Explosives Offences,20,North Western Region,Number,421.0
+RCD06C01,Recorded crimes,2022,2022,11,Weapons and Explosives Offences,30,Eastern Region,Number,509.0
+RCD06C01,Recorded crimes,2022,2022,11,Weapons and Explosives Offences,40,Southern Region,Number,511.0
+RCD06C01,Recorded crimes,2022,2022,11,Weapons and Explosives Offences,IE0,State,Number,2628.0
+RCD06C01,Recorded crimes,2022,2022,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,9152.0
+RCD06C01,Recorded crimes,2022,2022,12,Damage to Property and to the Environment,20,North Western Region,Number,3604.0
+RCD06C01,Recorded crimes,2022,2022,12,Damage to Property and to the Environment,30,Eastern Region,Number,4680.0
+RCD06C01,Recorded crimes,2022,2022,12,Damage to Property and to the Environment,40,Southern Region,Number,4272.0
+RCD06C01,Recorded crimes,2022,2022,12,Damage to Property and to the Environment,IE0,State,Number,21708.0
+RCD06C01,Recorded crimes,2022,2022,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,11309.0
+RCD06C01,Recorded crimes,2022,2022,13,Public Order and other Social Code Offences,20,North Western Region,Number,6409.0
+RCD06C01,Recorded crimes,2022,2022,13,Public Order and other Social Code Offences,30,Eastern Region,Number,6033.0
+RCD06C01,Recorded crimes,2022,2022,13,Public Order and other Social Code Offences,40,Southern Region,Number,7536.0
+RCD06C01,Recorded crimes,2022,2022,13,Public Order and other Social Code Offences,IE0,State,Number,31287.0
+RCD06C01,Recorded crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,8560.0
+RCD06C01,Recorded crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1505.0
+RCD06C01,Recorded crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,2583.0
+RCD06C01,Recorded crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,2818.0
+RCD06C01,Recorded crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,15466.0
+RCD06C01,Recorded crimes,2023,2023,1,Homicide Offences,10,Dublin Metropolitan Region,Number,18.0
+RCD06C01,Recorded crimes,2023,2023,1,Homicide Offences,20,North Western Region,Number,21.0
+RCD06C01,Recorded crimes,2023,2023,1,Homicide Offences,30,Eastern Region,Number,13.0
+RCD06C01,Recorded crimes,2023,2023,1,Homicide Offences,40,Southern Region,Number,22.0
+RCD06C01,Recorded crimes,2023,2023,1,Homicide Offences,IE0,State,Number,74.0
+RCD06C01,Recorded crimes,2023,2023,2,Sexual Offences,10,Dublin Metropolitan Region,Number,1072.0
+RCD06C01,Recorded crimes,2023,2023,2,Sexual Offences,20,North Western Region,Number,769.0
+RCD06C01,Recorded crimes,2023,2023,2,Sexual Offences,30,Eastern Region,Number,808.0
+RCD06C01,Recorded crimes,2023,2023,2,Sexual Offences,40,Southern Region,Number,758.0
+RCD06C01,Recorded crimes,2023,2023,2,Sexual Offences,IE0,State,Number,3407.0
+RCD06C01,Recorded crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,7833.0
+RCD06C01,Recorded crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,4993.0
+RCD06C01,Recorded crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,5364.0
+RCD06C01,Recorded crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,5680.0
+RCD06C01,Recorded crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,23870.0
+RCD06C01,Recorded crimes,2023,2023,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1701.0
+RCD06C01,Recorded crimes,2023,2023,4,Dangerous or Negligent Acts,20,North Western Region,Number,2033.0
+RCD06C01,Recorded crimes,2023,2023,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2027.0
+RCD06C01,Recorded crimes,2023,2023,4,Dangerous or Negligent Acts,40,Southern Region,Number,1890.0
+RCD06C01,Recorded crimes,2023,2023,4,Dangerous or Negligent Acts,IE0,State,Number,7651.0
+RCD06C01,Recorded crimes,2023,2023,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,54.0
+RCD06C01,Recorded crimes,2023,2023,5,Kidnapping and Related Offences,20,North Western Region,Number,29.0
+RCD06C01,Recorded crimes,2023,2023,5,Kidnapping and Related Offences,30,Eastern Region,Number,29.0
+RCD06C01,Recorded crimes,2023,2023,5,Kidnapping and Related Offences,40,Southern Region,Number,35.0
+RCD06C01,Recorded crimes,2023,2023,5,Kidnapping and Related Offences,IE0,State,Number,147.0
+RCD06C01,Recorded crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,1453.0
+RCD06C01,Recorded crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,295.0
+RCD06C01,Recorded crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,420.0
+RCD06C01,Recorded crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,439.0
+RCD06C01,Recorded crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,2607.0
+RCD06C01,Recorded crimes,2023,2023,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,3895.0
+RCD06C01,Recorded crimes,2023,2023,7,Burglary and Related Offences,20,North Western Region,Number,1660.0
+RCD06C01,Recorded crimes,2023,2023,7,Burglary and Related Offences,30,Eastern Region,Number,2390.0
+RCD06C01,Recorded crimes,2023,2023,7,Burglary and Related Offences,40,Southern Region,Number,1615.0
+RCD06C01,Recorded crimes,2023,2023,7,Burglary and Related Offences,IE0,State,Number,9560.0
+RCD06C01,Recorded crimes,2023,2023,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,37726.0
+RCD06C01,Recorded crimes,2023,2023,8,Theft and Related Offences,20,North Western Region,Number,8430.0
+RCD06C01,Recorded crimes,2023,2023,8,Theft and Related Offences,30,Eastern Region,Number,14462.0
+RCD06C01,Recorded crimes,2023,2023,8,Theft and Related Offences,40,Southern Region,Number,13195.0
+RCD06C01,Recorded crimes,2023,2023,8,Theft and Related Offences,IE0,State,Number,73813.0
+RCD06C01,Recorded crimes,2023,2023,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,4673.0
+RCD06C01,Recorded crimes,2023,2023,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,2328.0
+RCD06C01,Recorded crimes,2023,2023,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,2852.0
+RCD06C01,Recorded crimes,2023,2023,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,2499.0
+RCD06C01,Recorded crimes,2023,2023,9,"Fraud, Deception and Related Offences",IE0,State,Number,12352.0
+RCD06C01,Recorded crimes,2023,2023,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,6599.0
+RCD06C01,Recorded crimes,2023,2023,10,Controlled Drug Offences,20,North Western Region,Number,2255.0
+RCD06C01,Recorded crimes,2023,2023,10,Controlled Drug Offences,30,Eastern Region,Number,4648.0
+RCD06C01,Recorded crimes,2023,2023,10,Controlled Drug Offences,40,Southern Region,Number,3782.0
+RCD06C01,Recorded crimes,2023,2023,10,Controlled Drug Offences,IE0,State,Number,17284.0
+RCD06C01,Recorded crimes,2023,2023,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1233.0
+RCD06C01,Recorded crimes,2023,2023,11,Weapons and Explosives Offences,20,North Western Region,Number,439.0
+RCD06C01,Recorded crimes,2023,2023,11,Weapons and Explosives Offences,30,Eastern Region,Number,521.0
+RCD06C01,Recorded crimes,2023,2023,11,Weapons and Explosives Offences,40,Southern Region,Number,569.0
+RCD06C01,Recorded crimes,2023,2023,11,Weapons and Explosives Offences,IE0,State,Number,2762.0
+RCD06C01,Recorded crimes,2023,2023,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,9097.0
+RCD06C01,Recorded crimes,2023,2023,12,Damage to Property and to the Environment,20,North Western Region,Number,3849.0
+RCD06C01,Recorded crimes,2023,2023,12,Damage to Property and to the Environment,30,Eastern Region,Number,4834.0
+RCD06C01,Recorded crimes,2023,2023,12,Damage to Property and to the Environment,40,Southern Region,Number,4663.0
+RCD06C01,Recorded crimes,2023,2023,12,Damage to Property and to the Environment,IE0,State,Number,22443.0
+RCD06C01,Recorded crimes,2023,2023,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,10236.0
+RCD06C01,Recorded crimes,2023,2023,13,Public Order and other Social Code Offences,20,North Western Region,Number,5775.0
+RCD06C01,Recorded crimes,2023,2023,13,Public Order and other Social Code Offences,30,Eastern Region,Number,5851.0
+RCD06C01,Recorded crimes,2023,2023,13,Public Order and other Social Code Offences,40,Southern Region,Number,6984.0
+RCD06C01,Recorded crimes,2023,2023,13,Public Order and other Social Code Offences,IE0,State,Number,28846.0
+RCD06C01,Recorded crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,8861.0
+RCD06C01,Recorded crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1465.0
+RCD06C01,Recorded crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,2362.0
+RCD06C01,Recorded crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,2572.0
+RCD06C01,Recorded crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,15260.0
+RCD06C02,Recorded crime rate,2018,2018,1,Homicide Offences,10,Dublin Metropolitan Region,Number,2.0
+RCD06C02,Recorded crime rate,2018,2018,1,Homicide Offences,20,North Western Region,Number,2.0
+RCD06C02,Recorded crime rate,2018,2018,1,Homicide Offences,30,Eastern Region,Number,1.0
+RCD06C02,Recorded crime rate,2018,2018,1,Homicide Offences,40,Southern Region,Number,2.0
+RCD06C02,Recorded crime rate,2018,2018,1,Homicide Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,2,Sexual Offences,10,Dublin Metropolitan Region,Number,70.0
+RCD06C02,Recorded crime rate,2018,2018,2,Sexual Offences,20,North Western Region,Number,65.0
+RCD06C02,Recorded crime rate,2018,2018,2,Sexual Offences,30,Eastern Region,Number,65.0
+RCD06C02,Recorded crime rate,2018,2018,2,Sexual Offences,40,Southern Region,Number,63.0
+RCD06C02,Recorded crime rate,2018,2018,2,Sexual Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,484.0
+RCD06C02,Recorded crime rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,415.0
+RCD06C02,Recorded crime rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,370.0
+RCD06C02,Recorded crime rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,376.0
+RCD06C02,Recorded crime rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,133.0
+RCD06C02,Recorded crime rate,2018,2018,4,Dangerous or Negligent Acts,20,North Western Region,Number,204.0
+RCD06C02,Recorded crime rate,2018,2018,4,Dangerous or Negligent Acts,30,Eastern Region,Number,182.0
+RCD06C02,Recorded crime rate,2018,2018,4,Dangerous or Negligent Acts,40,Southern Region,Number,192.0
+RCD06C02,Recorded crime rate,2018,2018,4,Dangerous or Negligent Acts,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,4.0
+RCD06C02,Recorded crime rate,2018,2018,5,Kidnapping and Related Offences,20,North Western Region,Number,3.0
+RCD06C02,Recorded crime rate,2018,2018,5,Kidnapping and Related Offences,30,Eastern Region,Number,2.0
+RCD06C02,Recorded crime rate,2018,2018,5,Kidnapping and Related Offences,40,Southern Region,Number,3.0
+RCD06C02,Recorded crime rate,2018,2018,5,Kidnapping and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,131.0
+RCD06C02,Recorded crime rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,16.0
+RCD06C02,Recorded crime rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,20.0
+RCD06C02,Recorded crime rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,20.0
+RCD06C02,Recorded crime rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,557.0
+RCD06C02,Recorded crime rate,2018,2018,7,Burglary and Related Offences,20,North Western Region,Number,250.0
+RCD06C02,Recorded crime rate,2018,2018,7,Burglary and Related Offences,30,Eastern Region,Number,313.0
+RCD06C02,Recorded crime rate,2018,2018,7,Burglary and Related Offences,40,Southern Region,Number,229.0
+RCD06C02,Recorded crime rate,2018,2018,7,Burglary and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,2590.0
+RCD06C02,Recorded crime rate,2018,2018,8,Theft and Related Offences,20,North Western Region,Number,709.0
+RCD06C02,Recorded crime rate,2018,2018,8,Theft and Related Offences,30,Eastern Region,Number,968.0
+RCD06C02,Recorded crime rate,2018,2018,8,Theft and Related Offences,40,Southern Region,Number,984.0
+RCD06C02,Recorded crime rate,2018,2018,8,Theft and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,206.0
+RCD06C02,Recorded crime rate,2018,2018,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,103.0
+RCD06C02,Recorded crime rate,2018,2018,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,106.0
+RCD06C02,Recorded crime rate,2018,2018,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,89.0
+RCD06C02,Recorded crime rate,2018,2018,9,"Fraud, Deception and Related Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,503.0
+RCD06C02,Recorded crime rate,2018,2018,10,Controlled Drug Offences,20,North Western Region,Number,212.0
+RCD06C02,Recorded crime rate,2018,2018,10,Controlled Drug Offences,30,Eastern Region,Number,398.0
+RCD06C02,Recorded crime rate,2018,2018,10,Controlled Drug Offences,40,Southern Region,Number,342.0
+RCD06C02,Recorded crime rate,2018,2018,10,Controlled Drug Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,84.0
+RCD06C02,Recorded crime rate,2018,2018,11,Weapons and Explosives Offences,20,North Western Region,Number,38.0
+RCD06C02,Recorded crime rate,2018,2018,11,Weapons and Explosives Offences,30,Eastern Region,Number,35.0
+RCD06C02,Recorded crime rate,2018,2018,11,Weapons and Explosives Offences,40,Southern Region,Number,39.0
+RCD06C02,Recorded crime rate,2018,2018,11,Weapons and Explosives Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,620.0
+RCD06C02,Recorded crime rate,2018,2018,12,Damage to Property and to the Environment,20,North Western Region,Number,362.0
+RCD06C02,Recorded crime rate,2018,2018,12,Damage to Property and to the Environment,30,Eastern Region,Number,369.0
+RCD06C02,Recorded crime rate,2018,2018,12,Damage to Property and to the Environment,40,Southern Region,Number,380.0
+RCD06C02,Recorded crime rate,2018,2018,12,Damage to Property and to the Environment,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,762.0
+RCD06C02,Recorded crime rate,2018,2018,13,Public Order and other Social Code Offences,20,North Western Region,Number,666.0
+RCD06C02,Recorded crime rate,2018,2018,13,Public Order and other Social Code Offences,30,Eastern Region,Number,468.0
+RCD06C02,Recorded crime rate,2018,2018,13,Public Order and other Social Code Offences,40,Southern Region,Number,721.0
+RCD06C02,Recorded crime rate,2018,2018,13,Public Order and other Social Code Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,679.0
+RCD06C02,Recorded crime rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,156.0
+RCD06C02,Recorded crime rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,202.0
+RCD06C02,Recorded crime rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,259.0
+RCD06C02,Recorded crime rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,1,Homicide Offences,10,Dublin Metropolitan Region,Number,2.0
+RCD06C02,Recorded crime rate,2019,2019,1,Homicide Offences,20,North Western Region,Number,1.0
+RCD06C02,Recorded crime rate,2019,2019,1,Homicide Offences,30,Eastern Region,Number,1.0
+RCD06C02,Recorded crime rate,2019,2019,1,Homicide Offences,40,Southern Region,Number,1.0
+RCD06C02,Recorded crime rate,2019,2019,1,Homicide Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,2,Sexual Offences,10,Dublin Metropolitan Region,Number,76.0
+RCD06C02,Recorded crime rate,2019,2019,2,Sexual Offences,20,North Western Region,Number,68.0
+RCD06C02,Recorded crime rate,2019,2019,2,Sexual Offences,30,Eastern Region,Number,64.0
+RCD06C02,Recorded crime rate,2019,2019,2,Sexual Offences,40,Southern Region,Number,62.0
+RCD06C02,Recorded crime rate,2019,2019,2,Sexual Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,539.0
+RCD06C02,Recorded crime rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,437.0
+RCD06C02,Recorded crime rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,365.0
+RCD06C02,Recorded crime rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,412.0
+RCD06C02,Recorded crime rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,142.0
+RCD06C02,Recorded crime rate,2019,2019,4,Dangerous or Negligent Acts,20,North Western Region,Number,201.0
+RCD06C02,Recorded crime rate,2019,2019,4,Dangerous or Negligent Acts,30,Eastern Region,Number,181.0
+RCD06C02,Recorded crime rate,2019,2019,4,Dangerous or Negligent Acts,40,Southern Region,Number,185.0
+RCD06C02,Recorded crime rate,2019,2019,4,Dangerous or Negligent Acts,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,3.0
+RCD06C02,Recorded crime rate,2019,2019,5,Kidnapping and Related Offences,20,North Western Region,Number,3.0
+RCD06C02,Recorded crime rate,2019,2019,5,Kidnapping and Related Offences,30,Eastern Region,Number,2.0
+RCD06C02,Recorded crime rate,2019,2019,5,Kidnapping and Related Offences,40,Southern Region,Number,3.0
+RCD06C02,Recorded crime rate,2019,2019,5,Kidnapping and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,115.0
+RCD06C02,Recorded crime rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,21.0
+RCD06C02,Recorded crime rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,20.0
+RCD06C02,Recorded crime rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,23.0
+RCD06C02,Recorded crime rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,556.0
+RCD06C02,Recorded crime rate,2019,2019,7,Burglary and Related Offences,20,North Western Region,Number,222.0
+RCD06C02,Recorded crime rate,2019,2019,7,Burglary and Related Offences,30,Eastern Region,Number,322.0
+RCD06C02,Recorded crime rate,2019,2019,7,Burglary and Related Offences,40,Southern Region,Number,206.0
+RCD06C02,Recorded crime rate,2019,2019,7,Burglary and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,2668.0
+RCD06C02,Recorded crime rate,2019,2019,8,Theft and Related Offences,20,North Western Region,Number,702.0
+RCD06C02,Recorded crime rate,2019,2019,8,Theft and Related Offences,30,Eastern Region,Number,973.0
+RCD06C02,Recorded crime rate,2019,2019,8,Theft and Related Offences,40,Southern Region,Number,914.0
+RCD06C02,Recorded crime rate,2019,2019,8,Theft and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,254.0
+RCD06C02,Recorded crime rate,2019,2019,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,126.0
+RCD06C02,Recorded crime rate,2019,2019,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,124.0
+RCD06C02,Recorded crime rate,2019,2019,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,120.0
+RCD06C02,Recorded crime rate,2019,2019,9,"Fraud, Deception and Related Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,602.0
+RCD06C02,Recorded crime rate,2019,2019,10,Controlled Drug Offences,20,North Western Region,Number,265.0
+RCD06C02,Recorded crime rate,2019,2019,10,Controlled Drug Offences,30,Eastern Region,Number,450.0
+RCD06C02,Recorded crime rate,2019,2019,10,Controlled Drug Offences,40,Southern Region,Number,355.0
+RCD06C02,Recorded crime rate,2019,2019,10,Controlled Drug Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,90.0
+RCD06C02,Recorded crime rate,2019,2019,11,Weapons and Explosives Offences,20,North Western Region,Number,43.0
+RCD06C02,Recorded crime rate,2019,2019,11,Weapons and Explosives Offences,30,Eastern Region,Number,37.0
+RCD06C02,Recorded crime rate,2019,2019,11,Weapons and Explosives Offences,40,Southern Region,Number,41.0
+RCD06C02,Recorded crime rate,2019,2019,11,Weapons and Explosives Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,639.0
+RCD06C02,Recorded crime rate,2019,2019,12,Damage to Property and to the Environment,20,North Western Region,Number,375.0
+RCD06C02,Recorded crime rate,2019,2019,12,Damage to Property and to the Environment,30,Eastern Region,Number,359.0
+RCD06C02,Recorded crime rate,2019,2019,12,Damage to Property and to the Environment,40,Southern Region,Number,364.0
+RCD06C02,Recorded crime rate,2019,2019,12,Damage to Property and to the Environment,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,788.0
+RCD06C02,Recorded crime rate,2019,2019,13,Public Order and other Social Code Offences,20,North Western Region,Number,686.0
+RCD06C02,Recorded crime rate,2019,2019,13,Public Order and other Social Code Offences,30,Eastern Region,Number,481.0
+RCD06C02,Recorded crime rate,2019,2019,13,Public Order and other Social Code Offences,40,Southern Region,Number,655.0
+RCD06C02,Recorded crime rate,2019,2019,13,Public Order and other Social Code Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,743.0
+RCD06C02,Recorded crime rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,204.0
+RCD06C02,Recorded crime rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,221.0
+RCD06C02,Recorded crime rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,225.0
+RCD06C02,Recorded crime rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,1,Homicide Offences,10,Dublin Metropolitan Region,Number,2.0
+RCD06C02,Recorded crime rate,2020,2020,1,Homicide Offences,20,North Western Region,Number,1.0
+RCD06C02,Recorded crime rate,2020,2020,1,Homicide Offences,30,Eastern Region,Number,1.0
+RCD06C02,Recorded crime rate,2020,2020,1,Homicide Offences,40,Southern Region,Number,2.0
+RCD06C02,Recorded crime rate,2020,2020,1,Homicide Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,2,Sexual Offences,10,Dublin Metropolitan Region,Number,68.0
+RCD06C02,Recorded crime rate,2020,2020,2,Sexual Offences,20,North Western Region,Number,58.0
+RCD06C02,Recorded crime rate,2020,2020,2,Sexual Offences,30,Eastern Region,Number,62.0
+RCD06C02,Recorded crime rate,2020,2020,2,Sexual Offences,40,Southern Region,Number,56.0
+RCD06C02,Recorded crime rate,2020,2020,2,Sexual Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,474.0
+RCD06C02,Recorded crime rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,374.0
+RCD06C02,Recorded crime rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,322.0
+RCD06C02,Recorded crime rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,337.0
+RCD06C02,Recorded crime rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,173.0
+RCD06C02,Recorded crime rate,2020,2020,4,Dangerous or Negligent Acts,20,North Western Region,Number,196.0
+RCD06C02,Recorded crime rate,2020,2020,4,Dangerous or Negligent Acts,30,Eastern Region,Number,163.0
+RCD06C02,Recorded crime rate,2020,2020,4,Dangerous or Negligent Acts,40,Southern Region,Number,167.0
+RCD06C02,Recorded crime rate,2020,2020,4,Dangerous or Negligent Acts,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,4.0
+RCD06C02,Recorded crime rate,2020,2020,5,Kidnapping and Related Offences,20,North Western Region,Number,4.0
+RCD06C02,Recorded crime rate,2020,2020,5,Kidnapping and Related Offences,30,Eastern Region,Number,2.0
+RCD06C02,Recorded crime rate,2020,2020,5,Kidnapping and Related Offences,40,Southern Region,Number,2.0
+RCD06C02,Recorded crime rate,2020,2020,5,Kidnapping and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,90.0
+RCD06C02,Recorded crime rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,12.0
+RCD06C02,Recorded crime rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,16.0
+RCD06C02,Recorded crime rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,16.0
+RCD06C02,Recorded crime rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,365.0
+RCD06C02,Recorded crime rate,2020,2020,7,Burglary and Related Offences,20,North Western Region,Number,144.0
+RCD06C02,Recorded crime rate,2020,2020,7,Burglary and Related Offences,30,Eastern Region,Number,183.0
+RCD06C02,Recorded crime rate,2020,2020,7,Burglary and Related Offences,40,Southern Region,Number,146.0
+RCD06C02,Recorded crime rate,2020,2020,7,Burglary and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,1961.0
+RCD06C02,Recorded crime rate,2020,2020,8,Theft and Related Offences,20,North Western Region,Number,543.0
+RCD06C02,Recorded crime rate,2020,2020,8,Theft and Related Offences,30,Eastern Region,Number,700.0
+RCD06C02,Recorded crime rate,2020,2020,8,Theft and Related Offences,40,Southern Region,Number,718.0
+RCD06C02,Recorded crime rate,2020,2020,8,Theft and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,235.0
+RCD06C02,Recorded crime rate,2020,2020,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,135.0
+RCD06C02,Recorded crime rate,2020,2020,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,126.0
+RCD06C02,Recorded crime rate,2020,2020,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,118.0
+RCD06C02,Recorded crime rate,2020,2020,9,"Fraud, Deception and Related Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,684.0
+RCD06C02,Recorded crime rate,2020,2020,10,Controlled Drug Offences,20,North Western Region,Number,317.0
+RCD06C02,Recorded crime rate,2020,2020,10,Controlled Drug Offences,30,Eastern Region,Number,377.0
+RCD06C02,Recorded crime rate,2020,2020,10,Controlled Drug Offences,40,Southern Region,Number,417.0
+RCD06C02,Recorded crime rate,2020,2020,10,Controlled Drug Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,96.0
+RCD06C02,Recorded crime rate,2020,2020,11,Weapons and Explosives Offences,20,North Western Region,Number,47.0
+RCD06C02,Recorded crime rate,2020,2020,11,Weapons and Explosives Offences,30,Eastern Region,Number,46.0
+RCD06C02,Recorded crime rate,2020,2020,11,Weapons and Explosives Offences,40,Southern Region,Number,50.0
+RCD06C02,Recorded crime rate,2020,2020,11,Weapons and Explosives Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,558.0
+RCD06C02,Recorded crime rate,2020,2020,12,Damage to Property and to the Environment,20,North Western Region,Number,328.0
+RCD06C02,Recorded crime rate,2020,2020,12,Damage to Property and to the Environment,30,Eastern Region,Number,326.0
+RCD06C02,Recorded crime rate,2020,2020,12,Damage to Property and to the Environment,40,Southern Region,Number,314.0
+RCD06C02,Recorded crime rate,2020,2020,12,Damage to Property and to the Environment,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,816.0
+RCD06C02,Recorded crime rate,2020,2020,13,Public Order and other Social Code Offences,20,North Western Region,Number,517.0
+RCD06C02,Recorded crime rate,2020,2020,13,Public Order and other Social Code Offences,30,Eastern Region,Number,395.0
+RCD06C02,Recorded crime rate,2020,2020,13,Public Order and other Social Code Offences,40,Southern Region,Number,552.0
+RCD06C02,Recorded crime rate,2020,2020,13,Public Order and other Social Code Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,366.0
+RCD06C02,Recorded crime rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,138.0
+RCD06C02,Recorded crime rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,157.0
+RCD06C02,Recorded crime rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,187.0
+RCD06C02,Recorded crime rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,1,Homicide Offences,10,Dublin Metropolitan Region,Number,1.0
+RCD06C02,Recorded crime rate,2021,2021,1,Homicide Offences,20,North Western Region,Number,1.0
+RCD06C02,Recorded crime rate,2021,2021,1,Homicide Offences,30,Eastern Region,Number,1.0
+RCD06C02,Recorded crime rate,2021,2021,1,Homicide Offences,40,Southern Region,Number,1.0
+RCD06C02,Recorded crime rate,2021,2021,1,Homicide Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,2,Sexual Offences,10,Dublin Metropolitan Region,Number,75.0
+RCD06C02,Recorded crime rate,2021,2021,2,Sexual Offences,20,North Western Region,Number,71.0
+RCD06C02,Recorded crime rate,2021,2021,2,Sexual Offences,30,Eastern Region,Number,68.0
+RCD06C02,Recorded crime rate,2021,2021,2,Sexual Offences,40,Southern Region,Number,64.0
+RCD06C02,Recorded crime rate,2021,2021,2,Sexual Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,474.0
+RCD06C02,Recorded crime rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,408.0
+RCD06C02,Recorded crime rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,347.0
+RCD06C02,Recorded crime rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,367.0
+RCD06C02,Recorded crime rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,150.0
+RCD06C02,Recorded crime rate,2021,2021,4,Dangerous or Negligent Acts,20,North Western Region,Number,198.0
+RCD06C02,Recorded crime rate,2021,2021,4,Dangerous or Negligent Acts,30,Eastern Region,Number,154.0
+RCD06C02,Recorded crime rate,2021,2021,4,Dangerous or Negligent Acts,40,Southern Region,Number,157.0
+RCD06C02,Recorded crime rate,2021,2021,4,Dangerous or Negligent Acts,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,3.0
+RCD06C02,Recorded crime rate,2021,2021,5,Kidnapping and Related Offences,20,North Western Region,Number,3.0
+RCD06C02,Recorded crime rate,2021,2021,5,Kidnapping and Related Offences,30,Eastern Region,Number,3.0
+RCD06C02,Recorded crime rate,2021,2021,5,Kidnapping and Related Offences,40,Southern Region,Number,3.0
+RCD06C02,Recorded crime rate,2021,2021,5,Kidnapping and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,81.0
+RCD06C02,Recorded crime rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,16.0
+RCD06C02,Recorded crime rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,17.0
+RCD06C02,Recorded crime rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,15.0
+RCD06C02,Recorded crime rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,252.0
+RCD06C02,Recorded crime rate,2021,2021,7,Burglary and Related Offences,20,North Western Region,Number,127.0
+RCD06C02,Recorded crime rate,2021,2021,7,Burglary and Related Offences,30,Eastern Region,Number,166.0
+RCD06C02,Recorded crime rate,2021,2021,7,Burglary and Related Offences,40,Southern Region,Number,114.0
+RCD06C02,Recorded crime rate,2021,2021,7,Burglary and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,1776.0
+RCD06C02,Recorded crime rate,2021,2021,8,Theft and Related Offences,20,North Western Region,Number,478.0
+RCD06C02,Recorded crime rate,2021,2021,8,Theft and Related Offences,30,Eastern Region,Number,631.0
+RCD06C02,Recorded crime rate,2021,2021,8,Theft and Related Offences,40,Southern Region,Number,646.0
+RCD06C02,Recorded crime rate,2021,2021,8,Theft and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,435.0
+RCD06C02,Recorded crime rate,2021,2021,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,320.0
+RCD06C02,Recorded crime rate,2021,2021,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,298.0
+RCD06C02,Recorded crime rate,2021,2021,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,288.0
+RCD06C02,Recorded crime rate,2021,2021,9,"Fraud, Deception and Related Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,531.0
+RCD06C02,Recorded crime rate,2021,2021,10,Controlled Drug Offences,20,North Western Region,Number,267.0
+RCD06C02,Recorded crime rate,2021,2021,10,Controlled Drug Offences,30,Eastern Region,Number,349.0
+RCD06C02,Recorded crime rate,2021,2021,10,Controlled Drug Offences,40,Southern Region,Number,396.0
+RCD06C02,Recorded crime rate,2021,2021,10,Controlled Drug Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,80.0
+RCD06C02,Recorded crime rate,2021,2021,11,Weapons and Explosives Offences,20,North Western Region,Number,40.0
+RCD06C02,Recorded crime rate,2021,2021,11,Weapons and Explosives Offences,30,Eastern Region,Number,33.0
+RCD06C02,Recorded crime rate,2021,2021,11,Weapons and Explosives Offences,40,Southern Region,Number,42.0
+RCD06C02,Recorded crime rate,2021,2021,11,Weapons and Explosives Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,542.0
+RCD06C02,Recorded crime rate,2021,2021,12,Damage to Property and to the Environment,20,North Western Region,Number,319.0
+RCD06C02,Recorded crime rate,2021,2021,12,Damage to Property and to the Environment,30,Eastern Region,Number,302.0
+RCD06C02,Recorded crime rate,2021,2021,12,Damage to Property and to the Environment,40,Southern Region,Number,333.0
+RCD06C02,Recorded crime rate,2021,2021,12,Damage to Property and to the Environment,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,728.0
+RCD06C02,Recorded crime rate,2021,2021,13,Public Order and other Social Code Offences,20,North Western Region,Number,527.0
+RCD06C02,Recorded crime rate,2021,2021,13,Public Order and other Social Code Offences,30,Eastern Region,Number,400.0
+RCD06C02,Recorded crime rate,2021,2021,13,Public Order and other Social Code Offences,40,Southern Region,Number,566.0
+RCD06C02,Recorded crime rate,2021,2021,13,Public Order and other Social Code Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,428.0
+RCD06C02,Recorded crime rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,147.0
+RCD06C02,Recorded crime rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,183.0
+RCD06C02,Recorded crime rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,185.0
+RCD06C02,Recorded crime rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,1,Homicide Offences,10,Dublin Metropolitan Region,Number,2.0
+RCD06C02,Recorded crime rate,2022,2022,1,Homicide Offences,20,North Western Region,Number,2.0
+RCD06C02,Recorded crime rate,2022,2022,1,Homicide Offences,30,Eastern Region,Number,2.0
+RCD06C02,Recorded crime rate,2022,2022,1,Homicide Offences,40,Southern Region,Number,1.0
+RCD06C02,Recorded crime rate,2022,2022,1,Homicide Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,2,Sexual Offences,10,Dublin Metropolitan Region,Number,82.0
+RCD06C02,Recorded crime rate,2022,2022,2,Sexual Offences,20,North Western Region,Number,72.0
+RCD06C02,Recorded crime rate,2022,2022,2,Sexual Offences,30,Eastern Region,Number,69.0
+RCD06C02,Recorded crime rate,2022,2022,2,Sexual Offences,40,Southern Region,Number,69.0
+RCD06C02,Recorded crime rate,2022,2022,2,Sexual Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,514.0
+RCD06C02,Recorded crime rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,472.0
+RCD06C02,Recorded crime rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,402.0
+RCD06C02,Recorded crime rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,451.0
+RCD06C02,Recorded crime rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,145.0
+RCD06C02,Recorded crime rate,2022,2022,4,Dangerous or Negligent Acts,20,North Western Region,Number,193.0
+RCD06C02,Recorded crime rate,2022,2022,4,Dangerous or Negligent Acts,30,Eastern Region,Number,149.0
+RCD06C02,Recorded crime rate,2022,2022,4,Dangerous or Negligent Acts,40,Southern Region,Number,156.0
+RCD06C02,Recorded crime rate,2022,2022,4,Dangerous or Negligent Acts,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,4.0
+RCD06C02,Recorded crime rate,2022,2022,5,Kidnapping and Related Offences,20,North Western Region,Number,3.0
+RCD06C02,Recorded crime rate,2022,2022,5,Kidnapping and Related Offences,30,Eastern Region,Number,2.0
+RCD06C02,Recorded crime rate,2022,2022,5,Kidnapping and Related Offences,40,Southern Region,Number,3.0
+RCD06C02,Recorded crime rate,2022,2022,5,Kidnapping and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,82.0
+RCD06C02,Recorded crime rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,19.0
+RCD06C02,Recorded crime rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,26.0
+RCD06C02,Recorded crime rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,25.0
+RCD06C02,Recorded crime rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,276.0
+RCD06C02,Recorded crime rate,2022,2022,7,Burglary and Related Offences,20,North Western Region,Number,129.0
+RCD06C02,Recorded crime rate,2022,2022,7,Burglary and Related Offences,30,Eastern Region,Number,183.0
+RCD06C02,Recorded crime rate,2022,2022,7,Burglary and Related Offences,40,Southern Region,Number,118.0
+RCD06C02,Recorded crime rate,2022,2022,7,Burglary and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,2393.0
+RCD06C02,Recorded crime rate,2022,2022,8,Theft and Related Offences,20,North Western Region,Number,632.0
+RCD06C02,Recorded crime rate,2022,2022,8,Theft and Related Offences,30,Eastern Region,Number,894.0
+RCD06C02,Recorded crime rate,2022,2022,8,Theft and Related Offences,40,Southern Region,Number,932.0
+RCD06C02,Recorded crime rate,2022,2022,8,Theft and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,319.0
+RCD06C02,Recorded crime rate,2022,2022,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,199.0
+RCD06C02,Recorded crime rate,2022,2022,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,176.0
+RCD06C02,Recorded crime rate,2022,2022,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,195.0
+RCD06C02,Recorded crime rate,2022,2022,9,"Fraud, Deception and Related Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,451.0
+RCD06C02,Recorded crime rate,2022,2022,10,Controlled Drug Offences,20,North Western Region,Number,201.0
+RCD06C02,Recorded crime rate,2022,2022,10,Controlled Drug Offences,30,Eastern Region,Number,339.0
+RCD06C02,Recorded crime rate,2022,2022,10,Controlled Drug Offences,40,Southern Region,Number,306.0
+RCD06C02,Recorded crime rate,2022,2022,10,Controlled Drug Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,81.0
+RCD06C02,Recorded crime rate,2022,2022,11,Weapons and Explosives Offences,20,North Western Region,Number,38.0
+RCD06C02,Recorded crime rate,2022,2022,11,Weapons and Explosives Offences,30,Eastern Region,Number,37.0
+RCD06C02,Recorded crime rate,2022,2022,11,Weapons and Explosives Offences,40,Southern Region,Number,41.0
+RCD06C02,Recorded crime rate,2022,2022,11,Weapons and Explosives Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,623.0
+RCD06C02,Recorded crime rate,2022,2022,12,Damage to Property and to the Environment,20,North Western Region,Number,328.0
+RCD06C02,Recorded crime rate,2022,2022,12,Damage to Property and to the Environment,30,Eastern Region,Number,344.0
+RCD06C02,Recorded crime rate,2022,2022,12,Damage to Property and to the Environment,40,Southern Region,Number,341.0
+RCD06C02,Recorded crime rate,2022,2022,12,Damage to Property and to the Environment,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,770.0
+RCD06C02,Recorded crime rate,2022,2022,13,Public Order and other Social Code Offences,20,North Western Region,Number,583.0
+RCD06C02,Recorded crime rate,2022,2022,13,Public Order and other Social Code Offences,30,Eastern Region,Number,443.0
+RCD06C02,Recorded crime rate,2022,2022,13,Public Order and other Social Code Offences,40,Southern Region,Number,601.0
+RCD06C02,Recorded crime rate,2022,2022,13,Public Order and other Social Code Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,583.0
+RCD06C02,Recorded crime rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,137.0
+RCD06C02,Recorded crime rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,190.0
+RCD06C02,Recorded crime rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,225.0
+RCD06C02,Recorded crime rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,1,Homicide Offences,10,Dublin Metropolitan Region,Number,1.0
+RCD06C02,Recorded crime rate,2023,2023,1,Homicide Offences,20,North Western Region,Number,2.0
+RCD06C02,Recorded crime rate,2023,2023,1,Homicide Offences,30,Eastern Region,Number,1.0
+RCD06C02,Recorded crime rate,2023,2023,1,Homicide Offences,40,Southern Region,Number,2.0
+RCD06C02,Recorded crime rate,2023,2023,1,Homicide Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,2,Sexual Offences,10,Dublin Metropolitan Region,Number,72.0
+RCD06C02,Recorded crime rate,2023,2023,2,Sexual Offences,20,North Western Region,Number,69.0
+RCD06C02,Recorded crime rate,2023,2023,2,Sexual Offences,30,Eastern Region,Number,58.0
+RCD06C02,Recorded crime rate,2023,2023,2,Sexual Offences,40,Southern Region,Number,59.0
+RCD06C02,Recorded crime rate,2023,2023,2,Sexual Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,524.0
+RCD06C02,Recorded crime rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,446.0
+RCD06C02,Recorded crime rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,386.0
+RCD06C02,Recorded crime rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,444.0
+RCD06C02,Recorded crime rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,114.0
+RCD06C02,Recorded crime rate,2023,2023,4,Dangerous or Negligent Acts,20,North Western Region,Number,182.0
+RCD06C02,Recorded crime rate,2023,2023,4,Dangerous or Negligent Acts,30,Eastern Region,Number,146.0
+RCD06C02,Recorded crime rate,2023,2023,4,Dangerous or Negligent Acts,40,Southern Region,Number,148.0
+RCD06C02,Recorded crime rate,2023,2023,4,Dangerous or Negligent Acts,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,4.0
+RCD06C02,Recorded crime rate,2023,2023,5,Kidnapping and Related Offences,20,North Western Region,Number,3.0
+RCD06C02,Recorded crime rate,2023,2023,5,Kidnapping and Related Offences,30,Eastern Region,Number,2.0
+RCD06C02,Recorded crime rate,2023,2023,5,Kidnapping and Related Offences,40,Southern Region,Number,3.0
+RCD06C02,Recorded crime rate,2023,2023,5,Kidnapping and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,97.0
+RCD06C02,Recorded crime rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,26.0
+RCD06C02,Recorded crime rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,30.0
+RCD06C02,Recorded crime rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,34.0
+RCD06C02,Recorded crime rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,260.0
+RCD06C02,Recorded crime rate,2023,2023,7,Burglary and Related Offences,20,North Western Region,Number,148.0
+RCD06C02,Recorded crime rate,2023,2023,7,Burglary and Related Offences,30,Eastern Region,Number,172.0
+RCD06C02,Recorded crime rate,2023,2023,7,Burglary and Related Offences,40,Southern Region,Number,126.0
+RCD06C02,Recorded crime rate,2023,2023,7,Burglary and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,2522.0
+RCD06C02,Recorded crime rate,2023,2023,8,Theft and Related Offences,20,North Western Region,Number,753.0
+RCD06C02,Recorded crime rate,2023,2023,8,Theft and Related Offences,30,Eastern Region,Number,1042.0
+RCD06C02,Recorded crime rate,2023,2023,8,Theft and Related Offences,40,Southern Region,Number,1032.0
+RCD06C02,Recorded crime rate,2023,2023,8,Theft and Related Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,312.0
+RCD06C02,Recorded crime rate,2023,2023,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,208.0
+RCD06C02,Recorded crime rate,2023,2023,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,205.0
+RCD06C02,Recorded crime rate,2023,2023,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,196.0
+RCD06C02,Recorded crime rate,2023,2023,9,"Fraud, Deception and Related Offences",IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,441.0
+RCD06C02,Recorded crime rate,2023,2023,10,Controlled Drug Offences,20,North Western Region,Number,201.0
+RCD06C02,Recorded crime rate,2023,2023,10,Controlled Drug Offences,30,Eastern Region,Number,335.0
+RCD06C02,Recorded crime rate,2023,2023,10,Controlled Drug Offences,40,Southern Region,Number,296.0
+RCD06C02,Recorded crime rate,2023,2023,10,Controlled Drug Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,82.0
+RCD06C02,Recorded crime rate,2023,2023,11,Weapons and Explosives Offences,20,North Western Region,Number,39.0
+RCD06C02,Recorded crime rate,2023,2023,11,Weapons and Explosives Offences,30,Eastern Region,Number,38.0
+RCD06C02,Recorded crime rate,2023,2023,11,Weapons and Explosives Offences,40,Southern Region,Number,45.0
+RCD06C02,Recorded crime rate,2023,2023,11,Weapons and Explosives Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,608.0
+RCD06C02,Recorded crime rate,2023,2023,12,Damage to Property and to the Environment,20,North Western Region,Number,344.0
+RCD06C02,Recorded crime rate,2023,2023,12,Damage to Property and to the Environment,30,Eastern Region,Number,348.0
+RCD06C02,Recorded crime rate,2023,2023,12,Damage to Property and to the Environment,40,Southern Region,Number,365.0
+RCD06C02,Recorded crime rate,2023,2023,12,Damage to Property and to the Environment,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,684.0
+RCD06C02,Recorded crime rate,2023,2023,13,Public Order and other Social Code Offences,20,North Western Region,Number,516.0
+RCD06C02,Recorded crime rate,2023,2023,13,Public Order and other Social Code Offences,30,Eastern Region,Number,422.0
+RCD06C02,Recorded crime rate,2023,2023,13,Public Order and other Social Code Offences,40,Southern Region,Number,546.0
+RCD06C02,Recorded crime rate,2023,2023,13,Public Order and other Social Code Offences,IE0,State,Number,0.0
+RCD06C02,Recorded crime rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,592.0
+RCD06C02,Recorded crime rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,131.0
+RCD06C02,Recorded crime rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,170.0
+RCD06C02,Recorded crime rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,201.0
+RCD06C02,Recorded crime rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,0.0
+RCD06C03,Detected crimes,2018,2018,1,Homicide Offences,10,Dublin Metropolitan Region,Number,18.0
+RCD06C03,Detected crimes,2018,2018,1,Homicide Offences,20,North Western Region,Number,21.0
+RCD06C03,Detected crimes,2018,2018,1,Homicide Offences,30,Eastern Region,Number,14.0
+RCD06C03,Detected crimes,2018,2018,1,Homicide Offences,40,Southern Region,Number,19.0
+RCD06C03,Detected crimes,2018,2018,1,Homicide Offences,IE0,State,Number,72.0
+RCD06C03,Detected crimes,2018,2018,2,Sexual Offences,10,Dublin Metropolitan Region,Number,238.0
+RCD06C03,Detected crimes,2018,2018,2,Sexual Offences,20,North Western Region,Number,185.0
+RCD06C03,Detected crimes,2018,2018,2,Sexual Offences,30,Eastern Region,Number,241.0
+RCD06C03,Detected crimes,2018,2018,2,Sexual Offences,40,Southern Region,Number,182.0
+RCD06C03,Detected crimes,2018,2018,2,Sexual Offences,IE0,State,Number,846.0
+RCD06C03,Detected crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,1576.0
+RCD06C03,Detected crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,1784.0
+RCD06C03,Detected crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,1821.0
+RCD06C03,Detected crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,1917.0
+RCD06C03,Detected crimes,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,7098.0
+RCD06C03,Detected crimes,2018,2018,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1472.0
+RCD06C03,Detected crimes,2018,2018,4,Dangerous or Negligent Acts,20,North Western Region,Number,1858.0
+RCD06C03,Detected crimes,2018,2018,4,Dangerous or Negligent Acts,30,Eastern Region,Number,1971.0
+RCD06C03,Detected crimes,2018,2018,4,Dangerous or Negligent Acts,40,Southern Region,Number,1938.0
+RCD06C03,Detected crimes,2018,2018,4,Dangerous or Negligent Acts,IE0,State,Number,7239.0
+RCD06C03,Detected crimes,2018,2018,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,12.0
+RCD06C03,Detected crimes,2018,2018,5,Kidnapping and Related Offences,20,North Western Region,Number,17.0
+RCD06C03,Detected crimes,2018,2018,5,Kidnapping and Related Offences,30,Eastern Region,Number,10.0
+RCD06C03,Detected crimes,2018,2018,5,Kidnapping and Related Offences,40,Southern Region,Number,13.0
+RCD06C03,Detected crimes,2018,2018,5,Kidnapping and Related Offences,IE0,State,Number,52.0
+RCD06C03,Detected crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,480.0
+RCD06C03,Detected crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,71.0
+RCD06C03,Detected crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,97.0
+RCD06C03,Detected crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,119.0
+RCD06C03,Detected crimes,2018,2018,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,767.0
+RCD06C03,Detected crimes,2018,2018,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,1205.0
+RCD06C03,Detected crimes,2018,2018,7,Burglary and Related Offences,20,North Western Region,Number,567.0
+RCD06C03,Detected crimes,2018,2018,7,Burglary and Related Offences,30,Eastern Region,Number,636.0
+RCD06C03,Detected crimes,2018,2018,7,Burglary and Related Offences,40,Southern Region,Number,665.0
+RCD06C03,Detected crimes,2018,2018,7,Burglary and Related Offences,IE0,State,Number,3073.0
+RCD06C03,Detected crimes,2018,2018,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,10996.0
+RCD06C03,Detected crimes,2018,2018,8,Theft and Related Offences,20,North Western Region,Number,2883.0
+RCD06C03,Detected crimes,2018,2018,8,Theft and Related Offences,30,Eastern Region,Number,4385.0
+RCD06C03,Detected crimes,2018,2018,8,Theft and Related Offences,40,Southern Region,Number,5199.0
+RCD06C03,Detected crimes,2018,2018,8,Theft and Related Offences,IE0,State,Number,23463.0
+RCD06C03,Detected crimes,2018,2018,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,774.0
+RCD06C03,Detected crimes,2018,2018,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,363.0
+RCD06C03,Detected crimes,2018,2018,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,356.0
+RCD06C03,Detected crimes,2018,2018,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,336.0
+RCD06C03,Detected crimes,2018,2018,9,"Fraud, Deception and Related Offences",IE0,State,Number,1829.0
+RCD06C03,Detected crimes,2018,2018,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,6155.0
+RCD06C03,Detected crimes,2018,2018,10,Controlled Drug Offences,20,North Western Region,Number,2013.0
+RCD06C03,Detected crimes,2018,2018,10,Controlled Drug Offences,30,Eastern Region,Number,4814.0
+RCD06C03,Detected crimes,2018,2018,10,Controlled Drug Offences,40,Southern Region,Number,3889.0
+RCD06C03,Detected crimes,2018,2018,10,Controlled Drug Offences,IE0,State,Number,16871.0
+RCD06C03,Detected crimes,2018,2018,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,929.0
+RCD06C03,Detected crimes,2018,2018,11,Weapons and Explosives Offences,20,North Western Region,Number,273.0
+RCD06C03,Detected crimes,2018,2018,11,Weapons and Explosives Offences,30,Eastern Region,Number,351.0
+RCD06C03,Detected crimes,2018,2018,11,Weapons and Explosives Offences,40,Southern Region,Number,371.0
+RCD06C03,Detected crimes,2018,2018,11,Weapons and Explosives Offences,IE0,State,Number,1924.0
+RCD06C03,Detected crimes,2018,2018,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,1410.0
+RCD06C03,Detected crimes,2018,2018,12,Damage to Property and to the Environment,20,North Western Region,Number,868.0
+RCD06C03,Detected crimes,2018,2018,12,Damage to Property and to the Environment,30,Eastern Region,Number,1011.0
+RCD06C03,Detected crimes,2018,2018,12,Damage to Property and to the Environment,40,Southern Region,Number,1104.0
+RCD06C03,Detected crimes,2018,2018,12,Damage to Property and to the Environment,IE0,State,Number,4393.0
+RCD06C03,Detected crimes,2018,2018,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,8403.0
+RCD06C03,Detected crimes,2018,2018,13,Public Order and other Social Code Offences,20,North Western Region,Number,5996.0
+RCD06C03,Detected crimes,2018,2018,13,Public Order and other Social Code Offences,30,Eastern Region,Number,4954.0
+RCD06C03,Detected crimes,2018,2018,13,Public Order and other Social Code Offences,40,Southern Region,Number,7589.0
+RCD06C03,Detected crimes,2018,2018,13,Public Order and other Social Code Offences,IE0,State,Number,26942.0
+RCD06C03,Detected crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,5535.0
+RCD06C03,Detected crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,890.0
+RCD06C03,Detected crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,1300.0
+RCD06C03,Detected crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,1632.0
+RCD06C03,Detected crimes,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,9357.0
+RCD06C03,Detected crimes,2019,2019,1,Homicide Offences,10,Dublin Metropolitan Region,Number,18.0
+RCD06C03,Detected crimes,2019,2019,1,Homicide Offences,20,North Western Region,Number,10.0
+RCD06C03,Detected crimes,2019,2019,1,Homicide Offences,30,Eastern Region,Number,8.0
+RCD06C03,Detected crimes,2019,2019,1,Homicide Offences,40,Southern Region,Number,16.0
+RCD06C03,Detected crimes,2019,2019,1,Homicide Offences,IE0,State,Number,52.0
+RCD06C03,Detected crimes,2019,2019,2,Sexual Offences,10,Dublin Metropolitan Region,Number,242.0
+RCD06C03,Detected crimes,2019,2019,2,Sexual Offences,20,North Western Region,Number,187.0
+RCD06C03,Detected crimes,2019,2019,2,Sexual Offences,30,Eastern Region,Number,225.0
+RCD06C03,Detected crimes,2019,2019,2,Sexual Offences,40,Southern Region,Number,227.0
+RCD06C03,Detected crimes,2019,2019,2,Sexual Offences,IE0,State,Number,881.0
+RCD06C03,Detected crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,1742.0
+RCD06C03,Detected crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,2071.0
+RCD06C03,Detected crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,1944.0
+RCD06C03,Detected crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,2110.0
+RCD06C03,Detected crimes,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,7867.0
+RCD06C03,Detected crimes,2019,2019,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1651.0
+RCD06C03,Detected crimes,2019,2019,4,Dangerous or Negligent Acts,20,North Western Region,Number,1943.0
+RCD06C03,Detected crimes,2019,2019,4,Dangerous or Negligent Acts,30,Eastern Region,Number,2045.0
+RCD06C03,Detected crimes,2019,2019,4,Dangerous or Negligent Acts,40,Southern Region,Number,1984.0
+RCD06C03,Detected crimes,2019,2019,4,Dangerous or Negligent Acts,IE0,State,Number,7623.0
+RCD06C03,Detected crimes,2019,2019,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,12.0
+RCD06C03,Detected crimes,2019,2019,5,Kidnapping and Related Offences,20,North Western Region,Number,9.0
+RCD06C03,Detected crimes,2019,2019,5,Kidnapping and Related Offences,30,Eastern Region,Number,9.0
+RCD06C03,Detected crimes,2019,2019,5,Kidnapping and Related Offences,40,Southern Region,Number,10.0
+RCD06C03,Detected crimes,2019,2019,5,Kidnapping and Related Offences,IE0,State,Number,40.0
+RCD06C03,Detected crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,446.0
+RCD06C03,Detected crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,89.0
+RCD06C03,Detected crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,111.0
+RCD06C03,Detected crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,135.0
+RCD06C03,Detected crimes,2019,2019,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,781.0
+RCD06C03,Detected crimes,2019,2019,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,1069.0
+RCD06C03,Detected crimes,2019,2019,7,Burglary and Related Offences,20,North Western Region,Number,463.0
+RCD06C03,Detected crimes,2019,2019,7,Burglary and Related Offences,30,Eastern Region,Number,642.0
+RCD06C03,Detected crimes,2019,2019,7,Burglary and Related Offences,40,Southern Region,Number,588.0
+RCD06C03,Detected crimes,2019,2019,7,Burglary and Related Offences,IE0,State,Number,2762.0
+RCD06C03,Detected crimes,2019,2019,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,10983.0
+RCD06C03,Detected crimes,2019,2019,8,Theft and Related Offences,20,North Western Region,Number,2967.0
+RCD06C03,Detected crimes,2019,2019,8,Theft and Related Offences,30,Eastern Region,Number,4754.0
+RCD06C03,Detected crimes,2019,2019,8,Theft and Related Offences,40,Southern Region,Number,4829.0
+RCD06C03,Detected crimes,2019,2019,8,Theft and Related Offences,IE0,State,Number,23533.0
+RCD06C03,Detected crimes,2019,2019,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,859.0
+RCD06C03,Detected crimes,2019,2019,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,412.0
+RCD06C03,Detected crimes,2019,2019,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,448.0
+RCD06C03,Detected crimes,2019,2019,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,467.0
+RCD06C03,Detected crimes,2019,2019,9,"Fraud, Deception and Related Offences",IE0,State,Number,2186.0
+RCD06C03,Detected crimes,2019,2019,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,7728.0
+RCD06C03,Detected crimes,2019,2019,10,Controlled Drug Offences,20,North Western Region,Number,2599.0
+RCD06C03,Detected crimes,2019,2019,10,Controlled Drug Offences,30,Eastern Region,Number,5612.0
+RCD06C03,Detected crimes,2019,2019,10,Controlled Drug Offences,40,Southern Region,Number,4081.0
+RCD06C03,Detected crimes,2019,2019,10,Controlled Drug Offences,IE0,State,Number,20020.0
+RCD06C03,Detected crimes,2019,2019,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,979.0
+RCD06C03,Detected crimes,2019,2019,11,Weapons and Explosives Offences,20,North Western Region,Number,324.0
+RCD06C03,Detected crimes,2019,2019,11,Weapons and Explosives Offences,30,Eastern Region,Number,348.0
+RCD06C03,Detected crimes,2019,2019,11,Weapons and Explosives Offences,40,Southern Region,Number,421.0
+RCD06C03,Detected crimes,2019,2019,11,Weapons and Explosives Offences,IE0,State,Number,2072.0
+RCD06C03,Detected crimes,2019,2019,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,1540.0
+RCD06C03,Detected crimes,2019,2019,12,Damage to Property and to the Environment,20,North Western Region,Number,1077.0
+RCD06C03,Detected crimes,2019,2019,12,Damage to Property and to the Environment,30,Eastern Region,Number,1039.0
+RCD06C03,Detected crimes,2019,2019,12,Damage to Property and to the Environment,40,Southern Region,Number,1125.0
+RCD06C03,Detected crimes,2019,2019,12,Damage to Property and to the Environment,IE0,State,Number,4781.0
+RCD06C03,Detected crimes,2019,2019,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,8839.0
+RCD06C03,Detected crimes,2019,2019,13,Public Order and other Social Code Offences,20,North Western Region,Number,6455.0
+RCD06C03,Detected crimes,2019,2019,13,Public Order and other Social Code Offences,30,Eastern Region,Number,5276.0
+RCD06C03,Detected crimes,2019,2019,13,Public Order and other Social Code Offences,40,Southern Region,Number,7138.0
+RCD06C03,Detected crimes,2019,2019,13,Public Order and other Social Code Offences,IE0,State,Number,27708.0
+RCD06C03,Detected crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,5876.0
+RCD06C03,Detected crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1055.0
+RCD06C03,Detected crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,1326.0
+RCD06C03,Detected crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,1435.0
+RCD06C03,Detected crimes,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,9692.0
+RCD06C03,Detected crimes,2020,2020,1,Homicide Offences,10,Dublin Metropolitan Region,Number,20.0
+RCD06C03,Detected crimes,2020,2020,1,Homicide Offences,20,North Western Region,Number,9.0
+RCD06C03,Detected crimes,2020,2020,1,Homicide Offences,30,Eastern Region,Number,16.0
+RCD06C03,Detected crimes,2020,2020,1,Homicide Offences,40,Southern Region,Number,16.0
+RCD06C03,Detected crimes,2020,2020,1,Homicide Offences,IE0,State,Number,61.0
+RCD06C03,Detected crimes,2020,2020,2,Sexual Offences,10,Dublin Metropolitan Region,Number,221.0
+RCD06C03,Detected crimes,2020,2020,2,Sexual Offences,20,North Western Region,Number,122.0
+RCD06C03,Detected crimes,2020,2020,2,Sexual Offences,30,Eastern Region,Number,265.0
+RCD06C03,Detected crimes,2020,2020,2,Sexual Offences,40,Southern Region,Number,189.0
+RCD06C03,Detected crimes,2020,2020,2,Sexual Offences,IE0,State,Number,797.0
+RCD06C03,Detected crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,2072.0
+RCD06C03,Detected crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,1786.0
+RCD06C03,Detected crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,1939.0
+RCD06C03,Detected crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,1808.0
+RCD06C03,Detected crimes,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,7605.0
+RCD06C03,Detected crimes,2020,2020,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,2093.0
+RCD06C03,Detected crimes,2020,2020,4,Dangerous or Negligent Acts,20,North Western Region,Number,1908.0
+RCD06C03,Detected crimes,2020,2020,4,Dangerous or Negligent Acts,30,Eastern Region,Number,1901.0
+RCD06C03,Detected crimes,2020,2020,4,Dangerous or Negligent Acts,40,Southern Region,Number,1782.0
+RCD06C03,Detected crimes,2020,2020,4,Dangerous or Negligent Acts,IE0,State,Number,7684.0
+RCD06C03,Detected crimes,2020,2020,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,27.0
+RCD06C03,Detected crimes,2020,2020,5,Kidnapping and Related Offences,20,North Western Region,Number,18.0
+RCD06C03,Detected crimes,2020,2020,5,Kidnapping and Related Offences,30,Eastern Region,Number,9.0
+RCD06C03,Detected crimes,2020,2020,5,Kidnapping and Related Offences,40,Southern Region,Number,14.0
+RCD06C03,Detected crimes,2020,2020,5,Kidnapping and Related Offences,IE0,State,Number,68.0
+RCD06C03,Detected crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,420.0
+RCD06C03,Detected crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,49.0
+RCD06C03,Detected crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,101.0
+RCD06C03,Detected crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,101.0
+RCD06C03,Detected crimes,2020,2020,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,671.0
+RCD06C03,Detected crimes,2020,2020,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,1194.0
+RCD06C03,Detected crimes,2020,2020,7,Burglary and Related Offences,20,North Western Region,Number,376.0
+RCD06C03,Detected crimes,2020,2020,7,Burglary and Related Offences,30,Eastern Region,Number,507.0
+RCD06C03,Detected crimes,2020,2020,7,Burglary and Related Offences,40,Southern Region,Number,563.0
+RCD06C03,Detected crimes,2020,2020,7,Burglary and Related Offences,IE0,State,Number,2640.0
+RCD06C03,Detected crimes,2020,2020,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,9139.0
+RCD06C03,Detected crimes,2020,2020,8,Theft and Related Offences,20,North Western Region,Number,2426.0
+RCD06C03,Detected crimes,2020,2020,8,Theft and Related Offences,30,Eastern Region,Number,3584.0
+RCD06C03,Detected crimes,2020,2020,8,Theft and Related Offences,40,Southern Region,Number,4231.0
+RCD06C03,Detected crimes,2020,2020,8,Theft and Related Offences,IE0,State,Number,19380.0
+RCD06C03,Detected crimes,2020,2020,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,812.0
+RCD06C03,Detected crimes,2020,2020,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,388.0
+RCD06C03,Detected crimes,2020,2020,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,439.0
+RCD06C03,Detected crimes,2020,2020,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,430.0
+RCD06C03,Detected crimes,2020,2020,9,"Fraud, Deception and Related Offences",IE0,State,Number,2069.0
+RCD06C03,Detected crimes,2020,2020,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,8875.0
+RCD06C03,Detected crimes,2020,2020,10,Controlled Drug Offences,20,North Western Region,Number,3079.0
+RCD06C03,Detected crimes,2020,2020,10,Controlled Drug Offences,30,Eastern Region,Number,4705.0
+RCD06C03,Detected crimes,2020,2020,10,Controlled Drug Offences,40,Southern Region,Number,4799.0
+RCD06C03,Detected crimes,2020,2020,10,Controlled Drug Offences,IE0,State,Number,21458.0
+RCD06C03,Detected crimes,2020,2020,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,1104.0
+RCD06C03,Detected crimes,2020,2020,11,Weapons and Explosives Offences,20,North Western Region,Number,383.0
+RCD06C03,Detected crimes,2020,2020,11,Weapons and Explosives Offences,30,Eastern Region,Number,454.0
+RCD06C03,Detected crimes,2020,2020,11,Weapons and Explosives Offences,40,Southern Region,Number,504.0
+RCD06C03,Detected crimes,2020,2020,11,Weapons and Explosives Offences,IE0,State,Number,2445.0
+RCD06C03,Detected crimes,2020,2020,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,1784.0
+RCD06C03,Detected crimes,2020,2020,12,Damage to Property and to the Environment,20,North Western Region,Number,916.0
+RCD06C03,Detected crimes,2020,2020,12,Damage to Property and to the Environment,30,Eastern Region,Number,1144.0
+RCD06C03,Detected crimes,2020,2020,12,Damage to Property and to the Environment,40,Southern Region,Number,1034.0
+RCD06C03,Detected crimes,2020,2020,12,Damage to Property and to the Environment,IE0,State,Number,4878.0
+RCD06C03,Detected crimes,2020,2020,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,9906.0
+RCD06C03,Detected crimes,2020,2020,13,Public Order and other Social Code Offences,20,North Western Region,Number,4822.0
+RCD06C03,Detected crimes,2020,2020,13,Public Order and other Social Code Offences,30,Eastern Region,Number,4333.0
+RCD06C03,Detected crimes,2020,2020,13,Public Order and other Social Code Offences,40,Southern Region,Number,6099.0
+RCD06C03,Detected crimes,2020,2020,13,Public Order and other Social Code Offences,IE0,State,Number,25160.0
+RCD06C03,Detected crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,3294.0
+RCD06C03,Detected crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,912.0
+RCD06C03,Detected crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,1192.0
+RCD06C03,Detected crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,1208.0
+RCD06C03,Detected crimes,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,6606.0
+RCD06C03,Detected crimes,2021,2021,1,Homicide Offences,10,Dublin Metropolitan Region,Number,17.0
+RCD06C03,Detected crimes,2021,2021,1,Homicide Offences,20,North Western Region,Number,10.0
+RCD06C03,Detected crimes,2021,2021,1,Homicide Offences,30,Eastern Region,Number,11.0
+RCD06C03,Detected crimes,2021,2021,1,Homicide Offences,40,Southern Region,Number,12.0
+RCD06C03,Detected crimes,2021,2021,1,Homicide Offences,IE0,State,Number,50.0
+RCD06C03,Detected crimes,2021,2021,2,Sexual Offences,10,Dublin Metropolitan Region,Number,233.0
+RCD06C03,Detected crimes,2021,2021,2,Sexual Offences,20,North Western Region,Number,141.0
+RCD06C03,Detected crimes,2021,2021,2,Sexual Offences,30,Eastern Region,Number,255.0
+RCD06C03,Detected crimes,2021,2021,2,Sexual Offences,40,Southern Region,Number,189.0
+RCD06C03,Detected crimes,2021,2021,2,Sexual Offences,IE0,State,Number,818.0
+RCD06C03,Detected crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,1775.0
+RCD06C03,Detected crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,1754.0
+RCD06C03,Detected crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,2000.0
+RCD06C03,Detected crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,1796.0
+RCD06C03,Detected crimes,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,7325.0
+RCD06C03,Detected crimes,2021,2021,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1799.0
+RCD06C03,Detected crimes,2021,2021,4,Dangerous or Negligent Acts,20,North Western Region,Number,1932.0
+RCD06C03,Detected crimes,2021,2021,4,Dangerous or Negligent Acts,30,Eastern Region,Number,1825.0
+RCD06C03,Detected crimes,2021,2021,4,Dangerous or Negligent Acts,40,Southern Region,Number,1668.0
+RCD06C03,Detected crimes,2021,2021,4,Dangerous or Negligent Acts,IE0,State,Number,7224.0
+RCD06C03,Detected crimes,2021,2021,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,15.0
+RCD06C03,Detected crimes,2021,2021,5,Kidnapping and Related Offences,20,North Western Region,Number,12.0
+RCD06C03,Detected crimes,2021,2021,5,Kidnapping and Related Offences,30,Eastern Region,Number,21.0
+RCD06C03,Detected crimes,2021,2021,5,Kidnapping and Related Offences,40,Southern Region,Number,17.0
+RCD06C03,Detected crimes,2021,2021,5,Kidnapping and Related Offences,IE0,State,Number,65.0
+RCD06C03,Detected crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,322.0
+RCD06C03,Detected crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,35.0
+RCD06C03,Detected crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,86.0
+RCD06C03,Detected crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,82.0
+RCD06C03,Detected crimes,2021,2021,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,525.0
+RCD06C03,Detected crimes,2021,2021,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,756.0
+RCD06C03,Detected crimes,2021,2021,7,Burglary and Related Offences,20,North Western Region,Number,239.0
+RCD06C03,Detected crimes,2021,2021,7,Burglary and Related Offences,30,Eastern Region,Number,437.0
+RCD06C03,Detected crimes,2021,2021,7,Burglary and Related Offences,40,Southern Region,Number,419.0
+RCD06C03,Detected crimes,2021,2021,7,Burglary and Related Offences,IE0,State,Number,1851.0
+RCD06C03,Detected crimes,2021,2021,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,7734.0
+RCD06C03,Detected crimes,2021,2021,8,Theft and Related Offences,20,North Western Region,Number,1893.0
+RCD06C03,Detected crimes,2021,2021,8,Theft and Related Offences,30,Eastern Region,Number,3260.0
+RCD06C03,Detected crimes,2021,2021,8,Theft and Related Offences,40,Southern Region,Number,3389.0
+RCD06C03,Detected crimes,2021,2021,8,Theft and Related Offences,IE0,State,Number,16276.0
+RCD06C03,Detected crimes,2021,2021,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,631.0
+RCD06C03,Detected crimes,2021,2021,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,283.0
+RCD06C03,Detected crimes,2021,2021,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,343.0
+RCD06C03,Detected crimes,2021,2021,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,331.0
+RCD06C03,Detected crimes,2021,2021,9,"Fraud, Deception and Related Offences",IE0,State,Number,1588.0
+RCD06C03,Detected crimes,2021,2021,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,6752.0
+RCD06C03,Detected crimes,2021,2021,10,Controlled Drug Offences,20,North Western Region,Number,2500.0
+RCD06C03,Detected crimes,2021,2021,10,Controlled Drug Offences,30,Eastern Region,Number,4318.0
+RCD06C03,Detected crimes,2021,2021,10,Controlled Drug Offences,40,Southern Region,Number,4539.0
+RCD06C03,Detected crimes,2021,2021,10,Controlled Drug Offences,IE0,State,Number,18109.0
+RCD06C03,Detected crimes,2021,2021,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,908.0
+RCD06C03,Detected crimes,2021,2021,11,Weapons and Explosives Offences,20,North Western Region,Number,298.0
+RCD06C03,Detected crimes,2021,2021,11,Weapons and Explosives Offences,30,Eastern Region,Number,320.0
+RCD06C03,Detected crimes,2021,2021,11,Weapons and Explosives Offences,40,Southern Region,Number,386.0
+RCD06C03,Detected crimes,2021,2021,11,Weapons and Explosives Offences,IE0,State,Number,1912.0
+RCD06C03,Detected crimes,2021,2021,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,1601.0
+RCD06C03,Detected crimes,2021,2021,12,Damage to Property and to the Environment,20,North Western Region,Number,822.0
+RCD06C03,Detected crimes,2021,2021,12,Damage to Property and to the Environment,30,Eastern Region,Number,951.0
+RCD06C03,Detected crimes,2021,2021,12,Damage to Property and to the Environment,40,Southern Region,Number,1047.0
+RCD06C03,Detected crimes,2021,2021,12,Damage to Property and to the Environment,IE0,State,Number,4421.0
+RCD06C03,Detected crimes,2021,2021,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,8650.0
+RCD06C03,Detected crimes,2021,2021,13,Public Order and other Social Code Offences,20,North Western Region,Number,4808.0
+RCD06C03,Detected crimes,2021,2021,13,Public Order and other Social Code Offences,30,Eastern Region,Number,4511.0
+RCD06C03,Detected crimes,2021,2021,13,Public Order and other Social Code Offences,40,Southern Region,Number,6276.0
+RCD06C03,Detected crimes,2021,2021,13,Public Order and other Social Code Offences,IE0,State,Number,24245.0
+RCD06C03,Detected crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,3771.0
+RCD06C03,Detected crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,1023.0
+RCD06C03,Detected crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,1224.0
+RCD06C03,Detected crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,1185.0
+RCD06C03,Detected crimes,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,7203.0
+RCD06C03,Detected crimes,2022,2022,1,Homicide Offences,10,Dublin Metropolitan Region,Number,17.0
+RCD06C03,Detected crimes,2022,2022,1,Homicide Offences,20,North Western Region,Number,12.0
+RCD06C03,Detected crimes,2022,2022,1,Homicide Offences,30,Eastern Region,Number,23.0
+RCD06C03,Detected crimes,2022,2022,1,Homicide Offences,40,Southern Region,Number,16.0
+RCD06C03,Detected crimes,2022,2022,1,Homicide Offences,IE0,State,Number,68.0
+RCD06C03,Detected crimes,2022,2022,2,Sexual Offences,10,Dublin Metropolitan Region,Number,176.0
+RCD06C03,Detected crimes,2022,2022,2,Sexual Offences,20,North Western Region,Number,111.0
+RCD06C03,Detected crimes,2022,2022,2,Sexual Offences,30,Eastern Region,Number,191.0
+RCD06C03,Detected crimes,2022,2022,2,Sexual Offences,40,Southern Region,Number,113.0
+RCD06C03,Detected crimes,2022,2022,2,Sexual Offences,IE0,State,Number,591.0
+RCD06C03,Detected crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,1720.0
+RCD06C03,Detected crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,1848.0
+RCD06C03,Detected crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,2177.0
+RCD06C03,Detected crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,2040.0
+RCD06C03,Detected crimes,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,7785.0
+RCD06C03,Detected crimes,2022,2022,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1779.0
+RCD06C03,Detected crimes,2022,2022,4,Dangerous or Negligent Acts,20,North Western Region,Number,1861.0
+RCD06C03,Detected crimes,2022,2022,4,Dangerous or Negligent Acts,30,Eastern Region,Number,1805.0
+RCD06C03,Detected crimes,2022,2022,4,Dangerous or Negligent Acts,40,Southern Region,Number,1643.0
+RCD06C03,Detected crimes,2022,2022,4,Dangerous or Negligent Acts,IE0,State,Number,7088.0
+RCD06C03,Detected crimes,2022,2022,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,23.0
+RCD06C03,Detected crimes,2022,2022,5,Kidnapping and Related Offences,20,North Western Region,Number,15.0
+RCD06C03,Detected crimes,2022,2022,5,Kidnapping and Related Offences,30,Eastern Region,Number,14.0
+RCD06C03,Detected crimes,2022,2022,5,Kidnapping and Related Offences,40,Southern Region,Number,12.0
+RCD06C03,Detected crimes,2022,2022,5,Kidnapping and Related Offences,IE0,State,Number,64.0
+RCD06C03,Detected crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,329.0
+RCD06C03,Detected crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,46.0
+RCD06C03,Detected crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,128.0
+RCD06C03,Detected crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,106.0
+RCD06C03,Detected crimes,2022,2022,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,609.0
+RCD06C03,Detected crimes,2022,2022,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,871.0
+RCD06C03,Detected crimes,2022,2022,7,Burglary and Related Offences,20,North Western Region,Number,272.0
+RCD06C03,Detected crimes,2022,2022,7,Burglary and Related Offences,30,Eastern Region,Number,449.0
+RCD06C03,Detected crimes,2022,2022,7,Burglary and Related Offences,40,Southern Region,Number,452.0
+RCD06C03,Detected crimes,2022,2022,7,Burglary and Related Offences,IE0,State,Number,2044.0
+RCD06C03,Detected crimes,2022,2022,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,9482.0
+RCD06C03,Detected crimes,2022,2022,8,Theft and Related Offences,20,North Western Region,Number,2519.0
+RCD06C03,Detected crimes,2022,2022,8,Theft and Related Offences,30,Eastern Region,Number,4585.0
+RCD06C03,Detected crimes,2022,2022,8,Theft and Related Offences,40,Southern Region,Number,4825.0
+RCD06C03,Detected crimes,2022,2022,8,Theft and Related Offences,IE0,State,Number,21411.0
+RCD06C03,Detected crimes,2022,2022,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,505.0
+RCD06C03,Detected crimes,2022,2022,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,232.0
+RCD06C03,Detected crimes,2022,2022,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,233.0
+RCD06C03,Detected crimes,2022,2022,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,248.0
+RCD06C03,Detected crimes,2022,2022,9,"Fraud, Deception and Related Offences",IE0,State,Number,1218.0
+RCD06C03,Detected crimes,2022,2022,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,5855.0
+RCD06C03,Detected crimes,2022,2022,10,Controlled Drug Offences,20,North Western Region,Number,1813.0
+RCD06C03,Detected crimes,2022,2022,10,Controlled Drug Offences,30,Eastern Region,Number,4281.0
+RCD06C03,Detected crimes,2022,2022,10,Controlled Drug Offences,40,Southern Region,Number,3385.0
+RCD06C03,Detected crimes,2022,2022,10,Controlled Drug Offences,IE0,State,Number,15334.0
+RCD06C03,Detected crimes,2022,2022,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,946.0
+RCD06C03,Detected crimes,2022,2022,11,Weapons and Explosives Offences,20,North Western Region,Number,286.0
+RCD06C03,Detected crimes,2022,2022,11,Weapons and Explosives Offences,30,Eastern Region,Number,367.0
+RCD06C03,Detected crimes,2022,2022,11,Weapons and Explosives Offences,40,Southern Region,Number,358.0
+RCD06C03,Detected crimes,2022,2022,11,Weapons and Explosives Offences,IE0,State,Number,1957.0
+RCD06C03,Detected crimes,2022,2022,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,1645.0
+RCD06C03,Detected crimes,2022,2022,12,Damage to Property and to the Environment,20,North Western Region,Number,860.0
+RCD06C03,Detected crimes,2022,2022,12,Damage to Property and to the Environment,30,Eastern Region,Number,1130.0
+RCD06C03,Detected crimes,2022,2022,12,Damage to Property and to the Environment,40,Southern Region,Number,1003.0
+RCD06C03,Detected crimes,2022,2022,12,Damage to Property and to the Environment,IE0,State,Number,4638.0
+RCD06C03,Detected crimes,2022,2022,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,9036.0
+RCD06C03,Detected crimes,2022,2022,13,Public Order and other Social Code Offences,20,North Western Region,Number,5302.0
+RCD06C03,Detected crimes,2022,2022,13,Public Order and other Social Code Offences,30,Eastern Region,Number,5077.0
+RCD06C03,Detected crimes,2022,2022,13,Public Order and other Social Code Offences,40,Southern Region,Number,6548.0
+RCD06C03,Detected crimes,2022,2022,13,Public Order and other Social Code Offences,IE0,State,Number,25963.0
+RCD06C03,Detected crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,5318.0
+RCD06C03,Detected crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,901.0
+RCD06C03,Detected crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,1405.0
+RCD06C03,Detected crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,1392.0
+RCD06C03,Detected crimes,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,9016.0
+RCD06C03,Detected crimes,2023,2023,1,Homicide Offences,10,Dublin Metropolitan Region,Number,11.0
+RCD06C03,Detected crimes,2023,2023,1,Homicide Offences,20,North Western Region,Number,18.0
+RCD06C03,Detected crimes,2023,2023,1,Homicide Offences,30,Eastern Region,Number,12.0
+RCD06C03,Detected crimes,2023,2023,1,Homicide Offences,40,Southern Region,Number,20.0
+RCD06C03,Detected crimes,2023,2023,1,Homicide Offences,IE0,State,Number,61.0
+RCD06C03,Detected crimes,2023,2023,2,Sexual Offences,10,Dublin Metropolitan Region,Number,98.0
+RCD06C03,Detected crimes,2023,2023,2,Sexual Offences,20,North Western Region,Number,37.0
+RCD06C03,Detected crimes,2023,2023,2,Sexual Offences,30,Eastern Region,Number,80.0
+RCD06C03,Detected crimes,2023,2023,2,Sexual Offences,40,Southern Region,Number,49.0
+RCD06C03,Detected crimes,2023,2023,2,Sexual Offences,IE0,State,Number,264.0
+RCD06C03,Detected crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,Number,1716.0
+RCD06C03,Detected crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,Number,1561.0
+RCD06C03,Detected crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,Number,1746.0
+RCD06C03,Detected crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,Number,1626.0
+RCD06C03,Detected crimes,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,Number,6649.0
+RCD06C03,Detected crimes,2023,2023,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,Number,1349.0
+RCD06C03,Detected crimes,2023,2023,4,Dangerous or Negligent Acts,20,North Western Region,Number,1719.0
+RCD06C03,Detected crimes,2023,2023,4,Dangerous or Negligent Acts,30,Eastern Region,Number,1756.0
+RCD06C03,Detected crimes,2023,2023,4,Dangerous or Negligent Acts,40,Southern Region,Number,1581.0
+RCD06C03,Detected crimes,2023,2023,4,Dangerous or Negligent Acts,IE0,State,Number,6405.0
+RCD06C03,Detected crimes,2023,2023,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,Number,17.0
+RCD06C03,Detected crimes,2023,2023,5,Kidnapping and Related Offences,20,North Western Region,Number,11.0
+RCD06C03,Detected crimes,2023,2023,5,Kidnapping and Related Offences,30,Eastern Region,Number,8.0
+RCD06C03,Detected crimes,2023,2023,5,Kidnapping and Related Offences,40,Southern Region,Number,12.0
+RCD06C03,Detected crimes,2023,2023,5,Kidnapping and Related Offences,IE0,State,Number,48.0
+RCD06C03,Detected crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,Number,347.0
+RCD06C03,Detected crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,Number,44.0
+RCD06C03,Detected crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,Number,111.0
+RCD06C03,Detected crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,Number,109.0
+RCD06C03,Detected crimes,2023,2023,6,"Robbery, Extortion and Hijacking Offences",IE0,State,Number,611.0
+RCD06C03,Detected crimes,2023,2023,7,Burglary and Related Offences,10,Dublin Metropolitan Region,Number,904.0
+RCD06C03,Detected crimes,2023,2023,7,Burglary and Related Offences,20,North Western Region,Number,283.0
+RCD06C03,Detected crimes,2023,2023,7,Burglary and Related Offences,30,Eastern Region,Number,462.0
+RCD06C03,Detected crimes,2023,2023,7,Burglary and Related Offences,40,Southern Region,Number,459.0
+RCD06C03,Detected crimes,2023,2023,7,Burglary and Related Offences,IE0,State,Number,2108.0
+RCD06C03,Detected crimes,2023,2023,8,Theft and Related Offences,10,Dublin Metropolitan Region,Number,9706.0
+RCD06C03,Detected crimes,2023,2023,8,Theft and Related Offences,20,North Western Region,Number,2996.0
+RCD06C03,Detected crimes,2023,2023,8,Theft and Related Offences,30,Eastern Region,Number,5286.0
+RCD06C03,Detected crimes,2023,2023,8,Theft and Related Offences,40,Southern Region,Number,5017.0
+RCD06C03,Detected crimes,2023,2023,8,Theft and Related Offences,IE0,State,Number,23005.0
+RCD06C03,Detected crimes,2023,2023,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,Number,353.0
+RCD06C03,Detected crimes,2023,2023,9,"Fraud, Deception and Related Offences",20,North Western Region,Number,187.0
+RCD06C03,Detected crimes,2023,2023,9,"Fraud, Deception and Related Offences",30,Eastern Region,Number,266.0
+RCD06C03,Detected crimes,2023,2023,9,"Fraud, Deception and Related Offences",40,Southern Region,Number,171.0
+RCD06C03,Detected crimes,2023,2023,9,"Fraud, Deception and Related Offences",IE0,State,Number,977.0
+RCD06C03,Detected crimes,2023,2023,10,Controlled Drug Offences,10,Dublin Metropolitan Region,Number,5467.0
+RCD06C03,Detected crimes,2023,2023,10,Controlled Drug Offences,20,North Western Region,Number,1512.0
+RCD06C03,Detected crimes,2023,2023,10,Controlled Drug Offences,30,Eastern Region,Number,3775.0
+RCD06C03,Detected crimes,2023,2023,10,Controlled Drug Offences,40,Southern Region,Number,2934.0
+RCD06C03,Detected crimes,2023,2023,10,Controlled Drug Offences,IE0,State,Number,13688.0
+RCD06C03,Detected crimes,2023,2023,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,Number,960.0
+RCD06C03,Detected crimes,2023,2023,11,Weapons and Explosives Offences,20,North Western Region,Number,281.0
+RCD06C03,Detected crimes,2023,2023,11,Weapons and Explosives Offences,30,Eastern Region,Number,358.0
+RCD06C03,Detected crimes,2023,2023,11,Weapons and Explosives Offences,40,Southern Region,Number,367.0
+RCD06C03,Detected crimes,2023,2023,11,Weapons and Explosives Offences,IE0,State,Number,1966.0
+RCD06C03,Detected crimes,2023,2023,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,Number,1668.0
+RCD06C03,Detected crimes,2023,2023,12,Damage to Property and to the Environment,20,North Western Region,Number,906.0
+RCD06C03,Detected crimes,2023,2023,12,Damage to Property and to the Environment,30,Eastern Region,Number,1085.0
+RCD06C03,Detected crimes,2023,2023,12,Damage to Property and to the Environment,40,Southern Region,Number,905.0
+RCD06C03,Detected crimes,2023,2023,12,Damage to Property and to the Environment,IE0,State,Number,4564.0
+RCD06C03,Detected crimes,2023,2023,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,Number,8287.0
+RCD06C03,Detected crimes,2023,2023,13,Public Order and other Social Code Offences,20,North Western Region,Number,4673.0
+RCD06C03,Detected crimes,2023,2023,13,Public Order and other Social Code Offences,30,Eastern Region,Number,4929.0
+RCD06C03,Detected crimes,2023,2023,13,Public Order and other Social Code Offences,40,Southern Region,Number,5892.0
+RCD06C03,Detected crimes,2023,2023,13,Public Order and other Social Code Offences,IE0,State,Number,23781.0
+RCD06C03,Detected crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,Number,5850.0
+RCD06C03,Detected crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,Number,896.0
+RCD06C03,Detected crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,Number,1440.0
+RCD06C03,Detected crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,Number,1437.0
+RCD06C03,Detected crimes,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,Number,9623.0
+RCD06C04,Crime incident detection rate,2018,2018,1,Homicide Offences,10,Dublin Metropolitan Region,%,75.0
+RCD06C04,Crime incident detection rate,2018,2018,1,Homicide Offences,20,North Western Region,%,84.0
+RCD06C04,Crime incident detection rate,2018,2018,1,Homicide Offences,30,Eastern Region,%,82.0
+RCD06C04,Crime incident detection rate,2018,2018,1,Homicide Offences,40,Southern Region,%,86.0
+RCD06C04,Crime incident detection rate,2018,2018,1,Homicide Offences,IE0,State,%,82.0
+RCD06C04,Crime incident detection rate,2018,2018,2,Sexual Offences,10,Dublin Metropolitan Region,%,25.0
+RCD06C04,Crime incident detection rate,2018,2018,2,Sexual Offences,20,North Western Region,%,27.0
+RCD06C04,Crime incident detection rate,2018,2018,2,Sexual Offences,30,Eastern Region,%,29.0
+RCD06C04,Crime incident detection rate,2018,2018,2,Sexual Offences,40,Southern Region,%,24.0
+RCD06C04,Crime incident detection rate,2018,2018,2,Sexual Offences,IE0,State,%,26.0
+RCD06C04,Crime incident detection rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,%,24.0
+RCD06C04,Crime incident detection rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,%,41.0
+RCD06C04,Crime incident detection rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,%,39.0
+RCD06C04,Crime incident detection rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,%,42.0
+RCD06C04,Crime incident detection rate,2018,2018,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,%,35.0
+RCD06C04,Crime incident detection rate,2018,2018,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,%,81.0
+RCD06C04,Crime incident detection rate,2018,2018,4,Dangerous or Negligent Acts,20,North Western Region,%,87.0
+RCD06C04,Crime incident detection rate,2018,2018,4,Dangerous or Negligent Acts,30,Eastern Region,%,85.0
+RCD06C04,Crime incident detection rate,2018,2018,4,Dangerous or Negligent Acts,40,Southern Region,%,84.0
+RCD06C04,Crime incident detection rate,2018,2018,4,Dangerous or Negligent Acts,IE0,State,%,85.0
+RCD06C04,Crime incident detection rate,2018,2018,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,%,24.0
+RCD06C04,Crime incident detection rate,2018,2018,5,Kidnapping and Related Offences,20,North Western Region,%,57.0
+RCD06C04,Crime incident detection rate,2018,2018,5,Kidnapping and Related Offences,30,Eastern Region,%,42.0
+RCD06C04,Crime incident detection rate,2018,2018,5,Kidnapping and Related Offences,40,Southern Region,%,42.0
+RCD06C04,Crime incident detection rate,2018,2018,5,Kidnapping and Related Offences,IE0,State,%,39.0
+RCD06C04,Crime incident detection rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,%,27.0
+RCD06C04,Crime incident detection rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,%,43.0
+RCD06C04,Crime incident detection rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,%,38.0
+RCD06C04,Crime incident detection rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,%,50.0
+RCD06C04,Crime incident detection rate,2018,2018,6,"Robbery, Extortion and Hijacking Offences",IE0,State,%,31.0
+RCD06C04,Crime incident detection rate,2018,2018,7,Burglary and Related Offences,10,Dublin Metropolitan Region,%,16.0
+RCD06C04,Crime incident detection rate,2018,2018,7,Burglary and Related Offences,20,North Western Region,%,22.0
+RCD06C04,Crime incident detection rate,2018,2018,7,Burglary and Related Offences,30,Eastern Region,%,16.0
+RCD06C04,Crime incident detection rate,2018,2018,7,Burglary and Related Offences,40,Southern Region,%,24.0
+RCD06C04,Crime incident detection rate,2018,2018,7,Burglary and Related Offences,IE0,State,%,18.0
+RCD06C04,Crime incident detection rate,2018,2018,8,Theft and Related Offences,10,Dublin Metropolitan Region,%,31.0
+RCD06C04,Crime incident detection rate,2018,2018,8,Theft and Related Offences,20,North Western Region,%,39.0
+RCD06C04,Crime incident detection rate,2018,2018,8,Theft and Related Offences,30,Eastern Region,%,35.0
+RCD06C04,Crime incident detection rate,2018,2018,8,Theft and Related Offences,40,Southern Region,%,44.0
+RCD06C04,Crime incident detection rate,2018,2018,8,Theft and Related Offences,IE0,State,%,35.0
+RCD06C04,Crime incident detection rate,2018,2018,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,%,27.0
+RCD06C04,Crime incident detection rate,2018,2018,9,"Fraud, Deception and Related Offences",20,North Western Region,%,34.0
+RCD06C04,Crime incident detection rate,2018,2018,9,"Fraud, Deception and Related Offences",30,Eastern Region,%,26.0
+RCD06C04,Crime incident detection rate,2018,2018,9,"Fraud, Deception and Related Offences",40,Southern Region,%,32.0
+RCD06C04,Crime incident detection rate,2018,2018,9,"Fraud, Deception and Related Offences",IE0,State,%,29.0
+RCD06C04,Crime incident detection rate,2018,2018,10,Controlled Drug Offences,10,Dublin Metropolitan Region,%,90.0
+RCD06C04,Crime incident detection rate,2018,2018,10,Controlled Drug Offences,20,North Western Region,%,91.0
+RCD06C04,Crime incident detection rate,2018,2018,10,Controlled Drug Offences,30,Eastern Region,%,95.0
+RCD06C04,Crime incident detection rate,2018,2018,10,Controlled Drug Offences,40,Southern Region,%,95.0
+RCD06C04,Crime incident detection rate,2018,2018,10,Controlled Drug Offences,IE0,State,%,92.0
+RCD06C04,Crime incident detection rate,2018,2018,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,%,81.0
+RCD06C04,Crime incident detection rate,2018,2018,11,Weapons and Explosives Offences,20,North Western Region,%,70.0
+RCD06C04,Crime incident detection rate,2018,2018,11,Weapons and Explosives Offences,30,Eastern Region,%,79.0
+RCD06C04,Crime incident detection rate,2018,2018,11,Weapons and Explosives Offences,40,Southern Region,%,80.0
+RCD06C04,Crime incident detection rate,2018,2018,11,Weapons and Explosives Offences,IE0,State,%,79.0
+RCD06C04,Crime incident detection rate,2018,2018,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,%,17.0
+RCD06C04,Crime incident detection rate,2018,2018,12,Damage to Property and to the Environment,20,North Western Region,%,23.0
+RCD06C04,Crime incident detection rate,2018,2018,12,Damage to Property and to the Environment,30,Eastern Region,%,21.0
+RCD06C04,Crime incident detection rate,2018,2018,12,Damage to Property and to the Environment,40,Southern Region,%,24.0
+RCD06C04,Crime incident detection rate,2018,2018,12,Damage to Property and to the Environment,IE0,State,%,20.0
+RCD06C04,Crime incident detection rate,2018,2018,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,%,81.0
+RCD06C04,Crime incident detection rate,2018,2018,13,Public Order and other Social Code Offences,20,North Western Region,%,86.0
+RCD06C04,Crime incident detection rate,2018,2018,13,Public Order and other Social Code Offences,30,Eastern Region,%,83.0
+RCD06C04,Crime incident detection rate,2018,2018,13,Public Order and other Social Code Offences,40,Southern Region,%,88.0
+RCD06C04,Crime incident detection rate,2018,2018,13,Public Order and other Social Code Offences,IE0,State,%,84.0
+RCD06C04,Crime incident detection rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,%,60.0
+RCD06C04,Crime incident detection rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,%,55.0
+RCD06C04,Crime incident detection rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,%,50.0
+RCD06C04,Crime incident detection rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,%,53.0
+RCD06C04,Crime incident detection rate,2018,2018,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,%,56.0
+RCD06C04,Crime incident detection rate,2019,2019,1,Homicide Offences,10,Dublin Metropolitan Region,%,72.0
+RCD06C04,Crime incident detection rate,2019,2019,1,Homicide Offences,20,North Western Region,%,83.0
+RCD06C04,Crime incident detection rate,2019,2019,1,Homicide Offences,30,Eastern Region,%,73.0
+RCD06C04,Crime incident detection rate,2019,2019,1,Homicide Offences,40,Southern Region,%,0.0
+RCD06C04,Crime incident detection rate,2019,2019,1,Homicide Offences,IE0,State,%,81.0
+RCD06C04,Crime incident detection rate,2019,2019,2,Sexual Offences,10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2019,2019,2,Sexual Offences,20,North Western Region,%,26.0
+RCD06C04,Crime incident detection rate,2019,2019,2,Sexual Offences,30,Eastern Region,%,27.0
+RCD06C04,Crime incident detection rate,2019,2019,2,Sexual Offences,40,Southern Region,%,30.0
+RCD06C04,Crime incident detection rate,2019,2019,2,Sexual Offences,IE0,State,%,26.0
+RCD06C04,Crime incident detection rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,%,45.0
+RCD06C04,Crime incident detection rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,%,41.0
+RCD06C04,Crime incident detection rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,%,42.0
+RCD06C04,Crime incident detection rate,2019,2019,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,%,36.0
+RCD06C04,Crime incident detection rate,2019,2019,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,%,84.0
+RCD06C04,Crime incident detection rate,2019,2019,4,Dangerous or Negligent Acts,20,North Western Region,%,91.0
+RCD06C04,Crime incident detection rate,2019,2019,4,Dangerous or Negligent Acts,30,Eastern Region,%,87.0
+RCD06C04,Crime incident detection rate,2019,2019,4,Dangerous or Negligent Acts,40,Southern Region,%,88.0
+RCD06C04,Crime incident detection rate,2019,2019,4,Dangerous or Negligent Acts,IE0,State,%,88.0
+RCD06C04,Crime incident detection rate,2019,2019,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,%,31.0
+RCD06C04,Crime incident detection rate,2019,2019,5,Kidnapping and Related Offences,20,North Western Region,%,33.0
+RCD06C04,Crime incident detection rate,2019,2019,5,Kidnapping and Related Offences,30,Eastern Region,%,45.0
+RCD06C04,Crime incident detection rate,2019,2019,5,Kidnapping and Related Offences,40,Southern Region,%,24.0
+RCD06C04,Crime incident detection rate,2019,2019,5,Kidnapping and Related Offences,IE0,State,%,31.0
+RCD06C04,Crime incident detection rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,%,28.0
+RCD06C04,Crime incident detection rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,%,40.0
+RCD06C04,Crime incident detection rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,%,44.0
+RCD06C04,Crime incident detection rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,%,49.0
+RCD06C04,Crime incident detection rate,2019,2019,6,"Robbery, Extortion and Hijacking Offences",IE0,State,%,33.0
+RCD06C04,Crime incident detection rate,2019,2019,7,Burglary and Related Offences,10,Dublin Metropolitan Region,%,14.0
+RCD06C04,Crime incident detection rate,2019,2019,7,Burglary and Related Offences,20,North Western Region,%,20.0
+RCD06C04,Crime incident detection rate,2019,2019,7,Burglary and Related Offences,30,Eastern Region,%,15.0
+RCD06C04,Crime incident detection rate,2019,2019,7,Burglary and Related Offences,40,Southern Region,%,23.0
+RCD06C04,Crime incident detection rate,2019,2019,7,Burglary and Related Offences,IE0,State,%,16.0
+RCD06C04,Crime incident detection rate,2019,2019,8,Theft and Related Offences,10,Dublin Metropolitan Region,%,30.0
+RCD06C04,Crime incident detection rate,2019,2019,8,Theft and Related Offences,20,North Western Region,%,40.0
+RCD06C04,Crime incident detection rate,2019,2019,8,Theft and Related Offences,30,Eastern Region,%,38.0
+RCD06C04,Crime incident detection rate,2019,2019,8,Theft and Related Offences,40,Southern Region,%,43.0
+RCD06C04,Crime incident detection rate,2019,2019,8,Theft and Related Offences,IE0,State,%,35.0
+RCD06C04,Crime incident detection rate,2019,2019,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,%,24.0
+RCD06C04,Crime incident detection rate,2019,2019,9,"Fraud, Deception and Related Offences",20,North Western Region,%,31.0
+RCD06C04,Crime incident detection rate,2019,2019,9,"Fraud, Deception and Related Offences",30,Eastern Region,%,28.0
+RCD06C04,Crime incident detection rate,2019,2019,9,"Fraud, Deception and Related Offences",40,Southern Region,%,32.0
+RCD06C04,Crime incident detection rate,2019,2019,9,"Fraud, Deception and Related Offences",IE0,State,%,28.0
+RCD06C04,Crime incident detection rate,2019,2019,10,Controlled Drug Offences,10,Dublin Metropolitan Region,%,92.0
+RCD06C04,Crime incident detection rate,2019,2019,10,Controlled Drug Offences,20,North Western Region,%,93.0
+RCD06C04,Crime incident detection rate,2019,2019,10,Controlled Drug Offences,30,Eastern Region,%,96.0
+RCD06C04,Crime incident detection rate,2019,2019,10,Controlled Drug Offences,40,Southern Region,%,94.0
+RCD06C04,Crime incident detection rate,2019,2019,10,Controlled Drug Offences,IE0,State,%,94.0
+RCD06C04,Crime incident detection rate,2019,2019,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,%,78.0
+RCD06C04,Crime incident detection rate,2019,2019,11,Weapons and Explosives Offences,20,North Western Region,%,71.0
+RCD06C04,Crime incident detection rate,2019,2019,11,Weapons and Explosives Offences,30,Eastern Region,%,73.0
+RCD06C04,Crime incident detection rate,2019,2019,11,Weapons and Explosives Offences,40,Southern Region,%,84.0
+RCD06C04,Crime incident detection rate,2019,2019,11,Weapons and Explosives Offences,IE0,State,%,77.0
+RCD06C04,Crime incident detection rate,2019,2019,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,%,17.0
+RCD06C04,Crime incident detection rate,2019,2019,12,Damage to Property and to the Environment,20,North Western Region,%,27.0
+RCD06C04,Crime incident detection rate,2019,2019,12,Damage to Property and to the Environment,30,Eastern Region,%,22.0
+RCD06C04,Crime incident detection rate,2019,2019,12,Damage to Property and to the Environment,40,Southern Region,%,25.0
+RCD06C04,Crime incident detection rate,2019,2019,12,Damage to Property and to the Environment,IE0,State,%,22.0
+RCD06C04,Crime incident detection rate,2019,2019,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,%,81.0
+RCD06C04,Crime incident detection rate,2019,2019,13,Public Order and other Social Code Offences,20,North Western Region,%,89.0
+RCD06C04,Crime incident detection rate,2019,2019,13,Public Order and other Social Code Offences,30,Eastern Region,%,85.0
+RCD06C04,Crime incident detection rate,2019,2019,13,Public Order and other Social Code Offences,40,Southern Region,%,90.0
+RCD06C04,Crime incident detection rate,2019,2019,13,Public Order and other Social Code Offences,IE0,State,%,86.0
+RCD06C04,Crime incident detection rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,%,57.0
+RCD06C04,Crime incident detection rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,%,49.0
+RCD06C04,Crime incident detection rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,%,46.0
+RCD06C04,Crime incident detection rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,%,52.0
+RCD06C04,Crime incident detection rate,2019,2019,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,%,54.0
+RCD06C04,Crime incident detection rate,2020,2020,1,Homicide Offences,10,Dublin Metropolitan Region,%,87.0
+RCD06C04,Crime incident detection rate,2020,2020,1,Homicide Offences,20,North Western Region,%,64.0
+RCD06C04,Crime incident detection rate,2020,2020,1,Homicide Offences,30,Eastern Region,%,0.0
+RCD06C04,Crime incident detection rate,2020,2020,1,Homicide Offences,40,Southern Region,%,84.0
+RCD06C04,Crime incident detection rate,2020,2020,1,Homicide Offences,IE0,State,%,85.0
+RCD06C04,Crime incident detection rate,2020,2020,2,Sexual Offences,10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2020,2020,2,Sexual Offences,20,North Western Region,%,20.0
+RCD06C04,Crime incident detection rate,2020,2020,2,Sexual Offences,30,Eastern Region,%,32.0
+RCD06C04,Crime incident detection rate,2020,2020,2,Sexual Offences,40,Southern Region,%,27.0
+RCD06C04,Crime incident detection rate,2020,2020,2,Sexual Offences,IE0,State,%,26.0
+RCD06C04,Crime incident detection rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,%,31.0
+RCD06C04,Crime incident detection rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,%,45.0
+RCD06C04,Crime incident detection rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,%,46.0
+RCD06C04,Crime incident detection rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,%,43.0
+RCD06C04,Crime incident detection rate,2020,2020,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,%,40.0
+RCD06C04,Crime incident detection rate,2020,2020,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,%,86.0
+RCD06C04,Crime incident detection rate,2020,2020,4,Dangerous or Negligent Acts,20,North Western Region,%,91.0
+RCD06C04,Crime incident detection rate,2020,2020,4,Dangerous or Negligent Acts,30,Eastern Region,%,89.0
+RCD06C04,Crime incident detection rate,2020,2020,4,Dangerous or Negligent Acts,40,Southern Region,%,86.0
+RCD06C04,Crime incident detection rate,2020,2020,4,Dangerous or Negligent Acts,IE0,State,%,88.0
+RCD06C04,Crime incident detection rate,2020,2020,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,%,52.0
+RCD06C04,Crime incident detection rate,2020,2020,5,Kidnapping and Related Offences,20,North Western Region,%,47.0
+RCD06C04,Crime incident detection rate,2020,2020,5,Kidnapping and Related Offences,30,Eastern Region,%,39.0
+RCD06C04,Crime incident detection rate,2020,2020,5,Kidnapping and Related Offences,40,Southern Region,%,67.0
+RCD06C04,Crime incident detection rate,2020,2020,5,Kidnapping and Related Offences,IE0,State,%,51.0
+RCD06C04,Crime incident detection rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,%,33.0
+RCD06C04,Crime incident detection rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,%,37.0
+RCD06C04,Crime incident detection rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,%,47.0
+RCD06C04,Crime incident detection rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,%,50.0
+RCD06C04,Crime incident detection rate,2020,2020,6,"Robbery, Extortion and Hijacking Offences",IE0,State,%,37.0
+RCD06C04,Crime incident detection rate,2020,2020,7,Burglary and Related Offences,10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2020,2020,7,Burglary and Related Offences,20,North Western Region,%,24.0
+RCD06C04,Crime incident detection rate,2020,2020,7,Burglary and Related Offences,30,Eastern Region,%,21.0
+RCD06C04,Crime incident detection rate,2020,2020,7,Burglary and Related Offences,40,Southern Region,%,31.0
+RCD06C04,Crime incident detection rate,2020,2020,7,Burglary and Related Offences,IE0,State,%,24.0
+RCD06C04,Crime incident detection rate,2020,2020,8,Theft and Related Offences,10,Dublin Metropolitan Region,%,33.0
+RCD06C04,Crime incident detection rate,2020,2020,8,Theft and Related Offences,20,North Western Region,%,42.0
+RCD06C04,Crime incident detection rate,2020,2020,8,Theft and Related Offences,30,Eastern Region,%,39.0
+RCD06C04,Crime incident detection rate,2020,2020,8,Theft and Related Offences,40,Southern Region,%,48.0
+RCD06C04,Crime incident detection rate,2020,2020,8,Theft and Related Offences,IE0,State,%,38.0
+RCD06C04,Crime incident detection rate,2020,2020,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,%,25.0
+RCD06C04,Crime incident detection rate,2020,2020,9,"Fraud, Deception and Related Offences",20,North Western Region,%,27.0
+RCD06C04,Crime incident detection rate,2020,2020,9,"Fraud, Deception and Related Offences",30,Eastern Region,%,27.0
+RCD06C04,Crime incident detection rate,2020,2020,9,"Fraud, Deception and Related Offences",40,Southern Region,%,30.0
+RCD06C04,Crime incident detection rate,2020,2020,9,"Fraud, Deception and Related Offences",IE0,State,%,26.0
+RCD06C04,Crime incident detection rate,2020,2020,10,Controlled Drug Offences,10,Dublin Metropolitan Region,%,92.0
+RCD06C04,Crime incident detection rate,2020,2020,10,Controlled Drug Offences,20,North Western Region,%,91.0
+RCD06C04,Crime incident detection rate,2020,2020,10,Controlled Drug Offences,30,Eastern Region,%,95.0
+RCD06C04,Crime incident detection rate,2020,2020,10,Controlled Drug Offences,40,Southern Region,%,93.0
+RCD06C04,Crime incident detection rate,2020,2020,10,Controlled Drug Offences,IE0,State,%,93.0
+RCD06C04,Crime incident detection rate,2020,2020,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,%,81.0
+RCD06C04,Crime incident detection rate,2020,2020,11,Weapons and Explosives Offences,20,North Western Region,%,75.0
+RCD06C04,Crime incident detection rate,2020,2020,11,Weapons and Explosives Offences,30,Eastern Region,%,75.0
+RCD06C04,Crime incident detection rate,2020,2020,11,Weapons and Explosives Offences,40,Southern Region,%,81.0
+RCD06C04,Crime incident detection rate,2020,2020,11,Weapons and Explosives Offences,IE0,State,%,79.0
+RCD06C04,Crime incident detection rate,2020,2020,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2020,2020,12,Damage to Property and to the Environment,20,North Western Region,%,26.0
+RCD06C04,Crime incident detection rate,2020,2020,12,Damage to Property and to the Environment,30,Eastern Region,%,27.0
+RCD06C04,Crime incident detection rate,2020,2020,12,Damage to Property and to the Environment,40,Southern Region,%,27.0
+RCD06C04,Crime incident detection rate,2020,2020,12,Damage to Property and to the Environment,IE0,State,%,25.0
+RCD06C04,Crime incident detection rate,2020,2020,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,%,86.0
+RCD06C04,Crime incident detection rate,2020,2020,13,Public Order and other Social Code Offences,20,North Western Region,%,87.0
+RCD06C04,Crime incident detection rate,2020,2020,13,Public Order and other Social Code Offences,30,Eastern Region,%,84.0
+RCD06C04,Crime incident detection rate,2020,2020,13,Public Order and other Social Code Offences,40,Southern Region,%,90.0
+RCD06C04,Crime incident detection rate,2020,2020,13,Public Order and other Social Code Offences,IE0,State,%,87.0
+RCD06C04,Crime incident detection rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,%,64.0
+RCD06C04,Crime incident detection rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,%,62.0
+RCD06C04,Crime incident detection rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,%,58.0
+RCD06C04,Crime incident detection rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,%,52.0
+RCD06C04,Crime incident detection rate,2020,2020,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,%,60.0
+RCD06C04,Crime incident detection rate,2021,2021,1,Homicide Offences,10,Dublin Metropolitan Region,%,89.0
+RCD06C04,Crime incident detection rate,2021,2021,1,Homicide Offences,20,North Western Region,%,83.0
+RCD06C04,Crime incident detection rate,2021,2021,1,Homicide Offences,30,Eastern Region,%,92.0
+RCD06C04,Crime incident detection rate,2021,2021,1,Homicide Offences,40,Southern Region,%,92.0
+RCD06C04,Crime incident detection rate,2021,2021,1,Homicide Offences,IE0,State,%,89.0
+RCD06C04,Crime incident detection rate,2021,2021,2,Sexual Offences,10,Dublin Metropolitan Region,%,22.0
+RCD06C04,Crime incident detection rate,2021,2021,2,Sexual Offences,20,North Western Region,%,18.0
+RCD06C04,Crime incident detection rate,2021,2021,2,Sexual Offences,30,Eastern Region,%,28.0
+RCD06C04,Crime incident detection rate,2021,2021,2,Sexual Offences,40,Southern Region,%,24.0
+RCD06C04,Crime incident detection rate,2021,2021,2,Sexual Offences,IE0,State,%,23.0
+RCD06C04,Crime incident detection rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,%,26.0
+RCD06C04,Crime incident detection rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,%,40.0
+RCD06C04,Crime incident detection rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,%,44.0
+RCD06C04,Crime incident detection rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,%,39.0
+RCD06C04,Crime incident detection rate,2021,2021,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,%,36.0
+RCD06C04,Crime incident detection rate,2021,2021,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,%,84.0
+RCD06C04,Crime incident detection rate,2021,2021,4,Dangerous or Negligent Acts,20,North Western Region,%,90.0
+RCD06C04,Crime incident detection rate,2021,2021,4,Dangerous or Negligent Acts,30,Eastern Region,%,90.0
+RCD06C04,Crime incident detection rate,2021,2021,4,Dangerous or Negligent Acts,40,Southern Region,%,85.0
+RCD06C04,Crime incident detection rate,2021,2021,4,Dangerous or Negligent Acts,IE0,State,%,87.0
+RCD06C04,Crime incident detection rate,2021,2021,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,%,35.0
+RCD06C04,Crime incident detection rate,2021,2021,5,Kidnapping and Related Offences,20,North Western Region,%,40.0
+RCD06C04,Crime incident detection rate,2021,2021,5,Kidnapping and Related Offences,30,Eastern Region,%,54.0
+RCD06C04,Crime incident detection rate,2021,2021,5,Kidnapping and Related Offences,40,Southern Region,%,47.0
+RCD06C04,Crime incident detection rate,2021,2021,5,Kidnapping and Related Offences,IE0,State,%,44.0
+RCD06C04,Crime incident detection rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,%,28.0
+RCD06C04,Crime incident detection rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,%,21.0
+RCD06C04,Crime incident detection rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,%,38.0
+RCD06C04,Crime incident detection rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,%,43.0
+RCD06C04,Crime incident detection rate,2021,2021,6,"Robbery, Extortion and Hijacking Offences",IE0,State,%,30.0
+RCD06C04,Crime incident detection rate,2021,2021,7,Burglary and Related Offences,10,Dublin Metropolitan Region,%,21.0
+RCD06C04,Crime incident detection rate,2021,2021,7,Burglary and Related Offences,20,North Western Region,%,17.0
+RCD06C04,Crime incident detection rate,2021,2021,7,Burglary and Related Offences,30,Eastern Region,%,20.0
+RCD06C04,Crime incident detection rate,2021,2021,7,Burglary and Related Offences,40,Southern Region,%,30.0
+RCD06C04,Crime incident detection rate,2021,2021,7,Burglary and Related Offences,IE0,State,%,22.0
+RCD06C04,Crime incident detection rate,2021,2021,8,Theft and Related Offences,10,Dublin Metropolitan Region,%,31.0
+RCD06C04,Crime incident detection rate,2021,2021,8,Theft and Related Offences,20,North Western Region,%,37.0
+RCD06C04,Crime incident detection rate,2021,2021,8,Theft and Related Offences,30,Eastern Region,%,39.0
+RCD06C04,Crime incident detection rate,2021,2021,8,Theft and Related Offences,40,Southern Region,%,42.0
+RCD06C04,Crime incident detection rate,2021,2021,8,Theft and Related Offences,IE0,State,%,35.0
+RCD06C04,Crime incident detection rate,2021,2021,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,%,10.0
+RCD06C04,Crime incident detection rate,2021,2021,9,"Fraud, Deception and Related Offences",20,North Western Region,%,8.0
+RCD06C04,Crime incident detection rate,2021,2021,9,"Fraud, Deception and Related Offences",30,Eastern Region,%,9.0
+RCD06C04,Crime incident detection rate,2021,2021,9,"Fraud, Deception and Related Offences",40,Southern Region,%,9.0
+RCD06C04,Crime incident detection rate,2021,2021,9,"Fraud, Deception and Related Offences",IE0,State,%,9.0
+RCD06C04,Crime incident detection rate,2021,2021,10,Controlled Drug Offences,10,Dublin Metropolitan Region,%,89.0
+RCD06C04,Crime incident detection rate,2021,2021,10,Controlled Drug Offences,20,North Western Region,%,86.0
+RCD06C04,Crime incident detection rate,2021,2021,10,Controlled Drug Offences,30,Eastern Region,%,93.0
+RCD06C04,Crime incident detection rate,2021,2021,10,Controlled Drug Offences,40,Southern Region,%,92.0
+RCD06C04,Crime incident detection rate,2021,2021,10,Controlled Drug Offences,IE0,State,%,91.0
+RCD06C04,Crime incident detection rate,2021,2021,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,%,80.0
+RCD06C04,Crime incident detection rate,2021,2021,11,Weapons and Explosives Offences,20,North Western Region,%,69.0
+RCD06C04,Crime incident detection rate,2021,2021,11,Weapons and Explosives Offences,30,Eastern Region,%,72.0
+RCD06C04,Crime incident detection rate,2021,2021,11,Weapons and Explosives Offences,40,Southern Region,%,74.0
+RCD06C04,Crime incident detection rate,2021,2021,11,Weapons and Explosives Offences,IE0,State,%,76.0
+RCD06C04,Crime incident detection rate,2021,2021,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,%,21.0
+RCD06C04,Crime incident detection rate,2021,2021,12,Damage to Property and to the Environment,20,North Western Region,%,24.0
+RCD06C04,Crime incident detection rate,2021,2021,12,Damage to Property and to the Environment,30,Eastern Region,%,24.0
+RCD06C04,Crime incident detection rate,2021,2021,12,Damage to Property and to the Environment,40,Southern Region,%,25.0
+RCD06C04,Crime incident detection rate,2021,2021,12,Damage to Property and to the Environment,IE0,State,%,23.0
+RCD06C04,Crime incident detection rate,2021,2021,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,%,84.0
+RCD06C04,Crime incident detection rate,2021,2021,13,Public Order and other Social Code Offences,20,North Western Region,%,84.0
+RCD06C04,Crime incident detection rate,2021,2021,13,Public Order and other Social Code Offences,30,Eastern Region,%,85.0
+RCD06C04,Crime incident detection rate,2021,2021,13,Public Order and other Social Code Offences,40,Southern Region,%,89.0
+RCD06C04,Crime incident detection rate,2021,2021,13,Public Order and other Social Code Offences,IE0,State,%,85.0
+RCD06C04,Crime incident detection rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,%,62.0
+RCD06C04,Crime incident detection rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,%,64.0
+RCD06C04,Crime incident detection rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,%,50.0
+RCD06C04,Crime incident detection rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,%,52.0
+RCD06C04,Crime incident detection rate,2021,2021,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,%,58.0
+RCD06C04,Crime incident detection rate,2022,2022,1,Homicide Offences,10,Dublin Metropolitan Region,%,74.0
+RCD06C04,Crime incident detection rate,2022,2022,1,Homicide Offences,20,North Western Region,%,71.0
+RCD06C04,Crime incident detection rate,2022,2022,1,Homicide Offences,30,Eastern Region,%,96.0
+RCD06C04,Crime incident detection rate,2022,2022,1,Homicide Offences,40,Southern Region,%,89.0
+RCD06C04,Crime incident detection rate,2022,2022,1,Homicide Offences,IE0,State,%,84.0
+RCD06C04,Crime incident detection rate,2022,2022,2,Sexual Offences,10,Dublin Metropolitan Region,%,15.0
+RCD06C04,Crime incident detection rate,2022,2022,2,Sexual Offences,20,North Western Region,%,14.0
+RCD06C04,Crime incident detection rate,2022,2022,2,Sexual Offences,30,Eastern Region,%,20.0
+RCD06C04,Crime incident detection rate,2022,2022,2,Sexual Offences,40,Southern Region,%,13.0
+RCD06C04,Crime incident detection rate,2022,2022,2,Sexual Offences,IE0,State,%,16.0
+RCD06C04,Crime incident detection rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,%,36.0
+RCD06C04,Crime incident detection rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,%,40.0
+RCD06C04,Crime incident detection rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,%,36.0
+RCD06C04,Crime incident detection rate,2022,2022,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,%,33.0
+RCD06C04,Crime incident detection rate,2022,2022,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,%,84.0
+RCD06C04,Crime incident detection rate,2022,2022,4,Dangerous or Negligent Acts,20,North Western Region,%,88.0
+RCD06C04,Crime incident detection rate,2022,2022,4,Dangerous or Negligent Acts,30,Eastern Region,%,89.0
+RCD06C04,Crime incident detection rate,2022,2022,4,Dangerous or Negligent Acts,40,Southern Region,%,84.0
+RCD06C04,Crime incident detection rate,2022,2022,4,Dangerous or Negligent Acts,IE0,State,%,86.0
+RCD06C04,Crime incident detection rate,2022,2022,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,%,40.0
+RCD06C04,Crime incident detection rate,2022,2022,5,Kidnapping and Related Offences,20,North Western Region,%,42.0
+RCD06C04,Crime incident detection rate,2022,2022,5,Kidnapping and Related Offences,30,Eastern Region,%,44.0
+RCD06C04,Crime incident detection rate,2022,2022,5,Kidnapping and Related Offences,40,Southern Region,%,36.0
+RCD06C04,Crime incident detection rate,2022,2022,5,Kidnapping and Related Offences,IE0,State,%,40.0
+RCD06C04,Crime incident detection rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,%,27.0
+RCD06C04,Crime incident detection rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,%,23.0
+RCD06C04,Crime incident detection rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,%,37.0
+RCD06C04,Crime incident detection rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,%,34.0
+RCD06C04,Crime incident detection rate,2022,2022,6,"Robbery, Extortion and Hijacking Offences",IE0,State,%,29.0
+RCD06C04,Crime incident detection rate,2022,2022,7,Burglary and Related Offences,10,Dublin Metropolitan Region,%,21.0
+RCD06C04,Crime incident detection rate,2022,2022,7,Burglary and Related Offences,20,North Western Region,%,19.0
+RCD06C04,Crime incident detection rate,2022,2022,7,Burglary and Related Offences,30,Eastern Region,%,18.0
+RCD06C04,Crime incident detection rate,2022,2022,7,Burglary and Related Offences,40,Southern Region,%,30.0
+RCD06C04,Crime incident detection rate,2022,2022,7,Burglary and Related Offences,IE0,State,%,22.0
+RCD06C04,Crime incident detection rate,2022,2022,8,Theft and Related Offences,10,Dublin Metropolitan Region,%,27.0
+RCD06C04,Crime incident detection rate,2022,2022,8,Theft and Related Offences,20,North Western Region,%,36.0
+RCD06C04,Crime incident detection rate,2022,2022,8,Theft and Related Offences,30,Eastern Region,%,38.0
+RCD06C04,Crime incident detection rate,2022,2022,8,Theft and Related Offences,40,Southern Region,%,41.0
+RCD06C04,Crime incident detection rate,2022,2022,8,Theft and Related Offences,IE0,State,%,32.0
+RCD06C04,Crime incident detection rate,2022,2022,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,%,11.0
+RCD06C04,Crime incident detection rate,2022,2022,9,"Fraud, Deception and Related Offences",20,North Western Region,%,11.0
+RCD06C04,Crime incident detection rate,2022,2022,9,"Fraud, Deception and Related Offences",30,Eastern Region,%,10.0
+RCD06C04,Crime incident detection rate,2022,2022,9,"Fraud, Deception and Related Offences",40,Southern Region,%,10.0
+RCD06C04,Crime incident detection rate,2022,2022,9,"Fraud, Deception and Related Offences",IE0,State,%,10.0
+RCD06C04,Crime incident detection rate,2022,2022,10,Controlled Drug Offences,10,Dublin Metropolitan Region,%,88.0
+RCD06C04,Crime incident detection rate,2022,2022,10,Controlled Drug Offences,20,North Western Region,%,82.0
+RCD06C04,Crime incident detection rate,2022,2022,10,Controlled Drug Offences,30,Eastern Region,%,93.0
+RCD06C04,Crime incident detection rate,2022,2022,10,Controlled Drug Offences,40,Southern Region,%,88.0
+RCD06C04,Crime incident detection rate,2022,2022,10,Controlled Drug Offences,IE0,State,%,89.0
+RCD06C04,Crime incident detection rate,2022,2022,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,%,80.0
+RCD06C04,Crime incident detection rate,2022,2022,11,Weapons and Explosives Offences,20,North Western Region,%,68.0
+RCD06C04,Crime incident detection rate,2022,2022,11,Weapons and Explosives Offences,30,Eastern Region,%,72.0
+RCD06C04,Crime incident detection rate,2022,2022,11,Weapons and Explosives Offences,40,Southern Region,%,70.0
+RCD06C04,Crime incident detection rate,2022,2022,11,Weapons and Explosives Offences,IE0,State,%,74.0
+RCD06C04,Crime incident detection rate,2022,2022,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,%,18.0
+RCD06C04,Crime incident detection rate,2022,2022,12,Damage to Property and to the Environment,20,North Western Region,%,24.0
+RCD06C04,Crime incident detection rate,2022,2022,12,Damage to Property and to the Environment,30,Eastern Region,%,24.0
+RCD06C04,Crime incident detection rate,2022,2022,12,Damage to Property and to the Environment,40,Southern Region,%,23.0
+RCD06C04,Crime incident detection rate,2022,2022,12,Damage to Property and to the Environment,IE0,State,%,21.0
+RCD06C04,Crime incident detection rate,2022,2022,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,%,80.0
+RCD06C04,Crime incident detection rate,2022,2022,13,Public Order and other Social Code Offences,20,North Western Region,%,83.0
+RCD06C04,Crime incident detection rate,2022,2022,13,Public Order and other Social Code Offences,30,Eastern Region,%,84.0
+RCD06C04,Crime incident detection rate,2022,2022,13,Public Order and other Social Code Offences,40,Southern Region,%,87.0
+RCD06C04,Crime incident detection rate,2022,2022,13,Public Order and other Social Code Offences,IE0,State,%,83.0
+RCD06C04,Crime incident detection rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,%,62.0
+RCD06C04,Crime incident detection rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,%,60.0
+RCD06C04,Crime incident detection rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,%,54.0
+RCD06C04,Crime incident detection rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,%,49.0
+RCD06C04,Crime incident detection rate,2022,2022,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,%,58.0
+RCD06C04,Crime incident detection rate,2023,2023,1,Homicide Offences,10,Dublin Metropolitan Region,%,61.0
+RCD06C04,Crime incident detection rate,2023,2023,1,Homicide Offences,20,North Western Region,%,86.0
+RCD06C04,Crime incident detection rate,2023,2023,1,Homicide Offences,30,Eastern Region,%,92.0
+RCD06C04,Crime incident detection rate,2023,2023,1,Homicide Offences,40,Southern Region,%,91.0
+RCD06C04,Crime incident detection rate,2023,2023,1,Homicide Offences,IE0,State,%,82.0
+RCD06C04,Crime incident detection rate,2023,2023,2,Sexual Offences,10,Dublin Metropolitan Region,%,9.0
+RCD06C04,Crime incident detection rate,2023,2023,2,Sexual Offences,20,North Western Region,%,5.0
+RCD06C04,Crime incident detection rate,2023,2023,2,Sexual Offences,30,Eastern Region,%,10.0
+RCD06C04,Crime incident detection rate,2023,2023,2,Sexual Offences,40,Southern Region,%,6.0
+RCD06C04,Crime incident detection rate,2023,2023,2,Sexual Offences,IE0,State,%,8.0
+RCD06C04,Crime incident detection rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",10,Dublin Metropolitan Region,%,22.0
+RCD06C04,Crime incident detection rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",20,North Western Region,%,31.0
+RCD06C04,Crime incident detection rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",30,Eastern Region,%,33.0
+RCD06C04,Crime incident detection rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",40,Southern Region,%,29.0
+RCD06C04,Crime incident detection rate,2023,2023,3,"Attempts/Threats to Murder, Assaults, Harassment and Related offences",IE0,State,%,28.0
+RCD06C04,Crime incident detection rate,2023,2023,4,Dangerous or Negligent Acts,10,Dublin Metropolitan Region,%,79.0
+RCD06C04,Crime incident detection rate,2023,2023,4,Dangerous or Negligent Acts,20,North Western Region,%,85.0
+RCD06C04,Crime incident detection rate,2023,2023,4,Dangerous or Negligent Acts,30,Eastern Region,%,87.0
+RCD06C04,Crime incident detection rate,2023,2023,4,Dangerous or Negligent Acts,40,Southern Region,%,84.0
+RCD06C04,Crime incident detection rate,2023,2023,4,Dangerous or Negligent Acts,IE0,State,%,84.0
+RCD06C04,Crime incident detection rate,2023,2023,5,Kidnapping and Related Offences,10,Dublin Metropolitan Region,%,31.0
+RCD06C04,Crime incident detection rate,2023,2023,5,Kidnapping and Related Offences,20,North Western Region,%,38.0
+RCD06C04,Crime incident detection rate,2023,2023,5,Kidnapping and Related Offences,30,Eastern Region,%,28.0
+RCD06C04,Crime incident detection rate,2023,2023,5,Kidnapping and Related Offences,40,Southern Region,%,34.0
+RCD06C04,Crime incident detection rate,2023,2023,5,Kidnapping and Related Offences,IE0,State,%,33.0
+RCD06C04,Crime incident detection rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",10,Dublin Metropolitan Region,%,24.0
+RCD06C04,Crime incident detection rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",20,North Western Region,%,15.0
+RCD06C04,Crime incident detection rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",30,Eastern Region,%,26.0
+RCD06C04,Crime incident detection rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",40,Southern Region,%,25.0
+RCD06C04,Crime incident detection rate,2023,2023,6,"Robbery, Extortion and Hijacking Offences",IE0,State,%,23.0
+RCD06C04,Crime incident detection rate,2023,2023,7,Burglary and Related Offences,10,Dublin Metropolitan Region,%,23.0
+RCD06C04,Crime incident detection rate,2023,2023,7,Burglary and Related Offences,20,North Western Region,%,17.0
+RCD06C04,Crime incident detection rate,2023,2023,7,Burglary and Related Offences,30,Eastern Region,%,19.0
+RCD06C04,Crime incident detection rate,2023,2023,7,Burglary and Related Offences,40,Southern Region,%,28.0
+RCD06C04,Crime incident detection rate,2023,2023,7,Burglary and Related Offences,IE0,State,%,22.0
+RCD06C04,Crime incident detection rate,2023,2023,8,Theft and Related Offences,10,Dublin Metropolitan Region,%,26.0
+RCD06C04,Crime incident detection rate,2023,2023,8,Theft and Related Offences,20,North Western Region,%,36.0
+RCD06C04,Crime incident detection rate,2023,2023,8,Theft and Related Offences,30,Eastern Region,%,37.0
+RCD06C04,Crime incident detection rate,2023,2023,8,Theft and Related Offences,40,Southern Region,%,38.0
+RCD06C04,Crime incident detection rate,2023,2023,8,Theft and Related Offences,IE0,State,%,31.0
+RCD06C04,Crime incident detection rate,2023,2023,9,"Fraud, Deception and Related Offences",10,Dublin Metropolitan Region,%,8.0
+RCD06C04,Crime incident detection rate,2023,2023,9,"Fraud, Deception and Related Offences",20,North Western Region,%,8.0
+RCD06C04,Crime incident detection rate,2023,2023,9,"Fraud, Deception and Related Offences",30,Eastern Region,%,9.0
+RCD06C04,Crime incident detection rate,2023,2023,9,"Fraud, Deception and Related Offences",40,Southern Region,%,7.0
+RCD06C04,Crime incident detection rate,2023,2023,9,"Fraud, Deception and Related Offences",IE0,State,%,8.0
+RCD06C04,Crime incident detection rate,2023,2023,10,Controlled Drug Offences,10,Dublin Metropolitan Region,%,83.0
+RCD06C04,Crime incident detection rate,2023,2023,10,Controlled Drug Offences,20,North Western Region,%,67.0
+RCD06C04,Crime incident detection rate,2023,2023,10,Controlled Drug Offences,30,Eastern Region,%,81.0
+RCD06C04,Crime incident detection rate,2023,2023,10,Controlled Drug Offences,40,Southern Region,%,78.0
+RCD06C04,Crime incident detection rate,2023,2023,10,Controlled Drug Offences,IE0,State,%,79.0
+RCD06C04,Crime incident detection rate,2023,2023,11,Weapons and Explosives Offences,10,Dublin Metropolitan Region,%,78.0
+RCD06C04,Crime incident detection rate,2023,2023,11,Weapons and Explosives Offences,20,North Western Region,%,64.0
+RCD06C04,Crime incident detection rate,2023,2023,11,Weapons and Explosives Offences,30,Eastern Region,%,69.0
+RCD06C04,Crime incident detection rate,2023,2023,11,Weapons and Explosives Offences,40,Southern Region,%,64.0
+RCD06C04,Crime incident detection rate,2023,2023,11,Weapons and Explosives Offences,IE0,State,%,71.0
+RCD06C04,Crime incident detection rate,2023,2023,12,Damage to Property and to the Environment,10,Dublin Metropolitan Region,%,18.0
+RCD06C04,Crime incident detection rate,2023,2023,12,Damage to Property and to the Environment,20,North Western Region,%,24.0
+RCD06C04,Crime incident detection rate,2023,2023,12,Damage to Property and to the Environment,30,Eastern Region,%,22.0
+RCD06C04,Crime incident detection rate,2023,2023,12,Damage to Property and to the Environment,40,Southern Region,%,19.0
+RCD06C04,Crime incident detection rate,2023,2023,12,Damage to Property and to the Environment,IE0,State,%,20.0
+RCD06C04,Crime incident detection rate,2023,2023,13,Public Order and other Social Code Offences,10,Dublin Metropolitan Region,%,81.0
+RCD06C04,Crime incident detection rate,2023,2023,13,Public Order and other Social Code Offences,20,North Western Region,%,81.0
+RCD06C04,Crime incident detection rate,2023,2023,13,Public Order and other Social Code Offences,30,Eastern Region,%,84.0
+RCD06C04,Crime incident detection rate,2023,2023,13,Public Order and other Social Code Offences,40,Southern Region,%,84.0
+RCD06C04,Crime incident detection rate,2023,2023,13,Public Order and other Social Code Offences,IE0,State,%,82.0
+RCD06C04,Crime incident detection rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",10,Dublin Metropolitan Region,%,66.0
+RCD06C04,Crime incident detection rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",20,North Western Region,%,61.0
+RCD06C04,Crime incident detection rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",30,Eastern Region,%,61.0
+RCD06C04,Crime incident detection rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",40,Southern Region,%,56.0
+RCD06C04,Crime incident detection rate,2023,2023,15,"Offences against Government, Justice Procedures and Organisation of Crime",IE0,State,%,63.0

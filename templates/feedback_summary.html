@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Feedback Summary</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>User Feedback Summary</h1>
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/charts">Crime Charts</a> |
+        <a href="/feedback">Submit Feedback</a> |
+        <a href="/feedback_summary">Feedback Summary</a> |
+        <a href="/recommendations">Safety Recommendations</a>
+    </nav>
+    
+    <div class="table-container">
+        {{ table|safe }}
+    </div>
+</body>
+</html>
