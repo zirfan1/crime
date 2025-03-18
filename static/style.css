@@ -159,14 +159,25 @@ footer {
 
 /* Navbar Styling */
 .navbar {
-    background-color: #007bff;
-    padding: 10px 0;
-    color: white;
+    background-color: #000; /* Make navbar black */
+    padding: 10px 20px;
     display: flex;
-    justify-content: center;
-    gap: 20px;
-    font-size: 16px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    align-items: center;
+    justify-content: space-between; /* Adjusts the space distribution */
+    color: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.navbar-title {
+    margin: 0;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    gap: 20px; /* Space between links */
 }
 
 .navbar a {
@@ -177,12 +188,13 @@ footer {
 }
 
 .navbar a:hover {
-    background-color: #0056b3;
+    background-color: #333; /* Dark grey on hover */
 }
 
 .navbar a.active {
-    background-color: #004494;
+    background-color: #555; /* Lighter grey for active link */
 }
+
 
 
 /* Responsive Design */

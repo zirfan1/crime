@@ -8,23 +8,23 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1>Crime Data Dashboard</h1>
-        <nav class="navbar">
+    <div class="navbar">
+        <h1 class="navbar-title">Crime Data Dashboard</h1>
+        <nav>
             <a href="{{ url_for('home') }}" class="{{ 'active' if current_path == url_for('home') else '' }}">Home</a>
             <a href="{{ url_for('charts') }}" class="{{ 'active' if current_path == url_for('charts') else '' }}">Charts</a>
             <a href="{{ url_for('feedback') }}" class="{{ 'active' if current_path == url_for('feedback') else '' }}">Feedback</a>
             <a href="{{ url_for('recommendations') }}" class="{{ 'active' if current_path == url_for('recommendations') else '' }}">Recommendations</a>
         </nav>
-        
-        
+    </div>
+
+    <div class="container">
         <h2>Crime Summary by Garda Region</h2>
         <div class="table-container">
             {{ table|safe }}
         </div>
 
         <h2>Crime Visualizations</h2>
-
         <label for="crimeFilter">Filter by Crime Type:</label>
         <select id="crimeFilter">
             <option value="all">All Crimes</option>
@@ -51,8 +51,7 @@
 
         function updateCharts(filter) {
             let filteredData = crimeData;
-
-            if (filter !== "all") {
+            if (filter !== 'all') {
                 filteredData = crimeData.filter(d => d.type_of_offence === filter);
             }
 

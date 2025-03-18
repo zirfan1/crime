@@ -8,38 +8,42 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>Crime Data Visualizations</h1>
-    <nav class="navbar">
-        <a href="{{ url_for('home') }}" class="{{ 'active' if current_path == url_for('home') else '' }}">Home</a>
-        <a href="{{ url_for('charts') }}" class="{{ 'active' if current_path == url_for('charts') else '' }}">Charts</a>
-        <a href="{{ url_for('feedback') }}" class="{{ 'active' if current_path == url_for('feedback') else '' }}">Feedback</a>
-        <a href="{{ url_for('recommendations') }}" class="{{ 'active' if current_path == url_for('recommendations') else '' }}">Recommendations</a>
-    </nav>
-    
-    
-    <label for="year-filter">Select Year:</label>
-    <select id="year-filter">
-        <option value="">All Years</option>
-        {% for year in years %}
-        <option value="{{ year }}">{{ year }}</option>
-        {% endfor %}
-    </select>
 
-    <label for="type-filter">Select Crime Type:</label>
-    <select id="type-filter">
-        <option value="">All Types</option>
-        {% for crime in crime_types %}
-        <option value="{{ crime }}">{{ crime }}</option>
-        {% endfor %}
-    </select>
+    <div class="navbar">
+        <h1 class="navbar-title">Crime Data Dashboard</h1>
+        <nav>
+            <a href="{{ url_for('home') }}" class="{{ 'active' if request.path == url_for('home') else '' }}">Home</a>
+            <a href="{{ url_for('charts') }}" class="{{ 'active' if request.path == url_for('charts') else '' }}">Charts</a>
+            <a href="{{ url_for('feedback') }}" class="{{ 'active' if request.path == url_for('feedback') else '' }}">Feedback</a>
+            <a href="{{ url_for('recommendations') }}" class="{{ 'active' if request.path == url_for('recommendations') else '' }}">Recommendations</a>
+        </nav>
+    </div>
 
-    <button onclick="updateCharts()">Filter</button>
+    <div class="container">
+        <label for="year-filter">Select Year:</label>
+        <select id="year-filter">
+            <option value="">All Years</option>
+            {% for year in years %}
+            <option value="{{ year }}">{{ year }}</option>
+            {% endfor %}
+        </select>
 
-    <h2>Crime by Garda Region</h2>
-    <div id="bar-chart"></div>
+        <label for="type-filter">Select Crime Type:</label>
+        <select id="type-filter">
+            <option value="">All Types</option>
+            {% for crime in crime_types %}
+            <option value="{{ crime }}">{{ crime }}</option>
+            {% endfor %}
+        </select>
 
-    <h2>Crime Distribution by Type</h2>
-    <div id="pie-chart"></div>
+        <button onclick="updateCharts()">Filter</button>
+
+        <h2>Crime by Garda Region</h2>
+        <div id="bar-chart"></div>
+
+        <h2>Crime Distribution by Type</h2>
+        <div id="pie-chart"></div>
+    </div>
 
     <script>
         function updateCharts() {
@@ -65,5 +69,6 @@
                 });
         }
     </script>
+
 </body>
 </html>

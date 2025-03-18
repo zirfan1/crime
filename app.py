@@ -31,6 +31,13 @@ def load_and_clean_data():
 
 df = load_and_clean_data()
 
+# Analyze the distribution of 'value' across different 'type_of_offence'
+crime_counts = df.groupby('type_of_offence')['value'].sum()
+print("Crime Counts by Type of Offence:")
+print(crime_counts)
+
+
+
 # Initialize SQLite Database for Feedback
 def init_db():
     conn = sqlite3.connect("data/feedback.db")
@@ -60,13 +67,26 @@ def home():
 
     return render_template("index.html", table=table, crime_types=crime_types, crime_data=crime_data)
 
-# Interactive Bar Chart Data
 @app.route("/bar_chart_data")
 def bar_chart_data():
-    crime_summary = df.groupby("garda_region")["value"].sum().reset_index()
+    year = request.args.get('year', type=int)  # Gets year from query string, if present
+    crime_type = request.args.get('type')  # Gets crime type from query string, if present
+
+    # Start with all data
+    query_data = df
+
+    # Filter data based on year if provided
+    if year:
+        query_data = query_data[query_data['year'] == year]
+
+    # Filter data based on crime type if provided
+    if crime_type and crime_type != 'All Types':
+        query_data = query_data[query_data['type_of_offence'] == crime_type]
+
+    crime_summary = query_data.groupby("garda_region")["value"].sum().reset_index()
     return jsonify(crime_summary.to_dict(orient="records"))
 
-# 📌 Updated Pie Chart with Smooth Transitions
+
 @app.route("/crime_pie_chart")
 def crime_pie_chart():
     # Aggregate crime data by type
@@ -81,12 +101,11 @@ def crime_pie_chart():
                  labels={"type_of_offence": "Crime Type"},
                  template="plotly_dark")
 
-    # Enable smooth transitions and animations
     fig.update_traces(
         textinfo="percent+label",
         pull=[0.05] * len(crime_by_type),
         hoverinfo="label+percent",
-        marker=dict(line=dict(color="#000000", width=2)),  # Add smooth boundaries
+        marker=dict(line=dict(color="#000000", width=2))
     )
 
     fig.update_layout(
@@ -95,6 +114,7 @@ def crime_pie_chart():
     )
 
     return jsonify(fig.to_json())
+
 
 # Feedback Page
 @app.route("/feedback", methods=["GET"])
