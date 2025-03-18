@@ -145,18 +145,21 @@ def feedback_summary():
 
     return render_template("feedback_summary.html", table=df_feedback.to_html(classes="table table-striped"))
 
-# Crime Safety Recommendations
 @app.route("/recommendations")
 def recommendations():
     conn = sqlite3.connect("data/feedback.db")
-    df_feedback = pd.read_sql_query("SELECT region, AVG(concern) as avg_concern FROM feedback GROUP BY region", conn)
+    cursor = conn.cursor()
+    # Fetch average concern per region where the average concern is above a certain threshold
+    cursor.execute("SELECT region, AVG(concern) as avg_concern FROM feedback GROUP BY region HAVING AVG(concern) >= 7")
+    high_concern_areas = cursor.fetchall()
     conn.close()
 
-    high_concern_areas = df_feedback[df_feedback["avg_concern"] >= 7]["region"].tolist()
+    # Convert to a format suitable for Plotly, if using directly in JavaScript
+    regions = [area[0] for area in high_concern_areas]
+    concerns = [area[1] for area in high_concern_areas]
 
-    recommendations_text = "<p>Areas with high concern: " + ", ".join(high_concern_areas) + "</p>" if high_concern_areas else "<p>No high concern areas identified yet.</p>"
+    return render_template("recommendations.html", regions=regions, concerns=concerns)
 
-    return render_template("recommendations.html", recommendations=recommendations_text)
 
 # Charts Page - Displays Graphs
 @app.route("/charts")
