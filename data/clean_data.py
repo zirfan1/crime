@@ -29,10 +29,10 @@ df.drop_duplicates(inplace=True)
 cleaned_file_path = "data/cleaned_crime_data.csv"
 df.to_csv(cleaned_file_path, index=False)
 
-print(f"\n✅ Data cleaning complete! Cleaned file saved at: {cleaned_file_path}")
+print(f"\n Data cleaning complete! Cleaned file saved at: {cleaned_file_path}")
 
 # Show summary of cleaned data
-print("\n📊 Cleaned Data Preview:")
+print("\n Cleaned Data Preview:")
 print(df.head())
-print("\n📌 Dataset Summary:")
+print("\n Dataset Summary:")
 print(df.info())

@@ -19,7 +19,7 @@
         </nav>
     </div>
 
-    <div class="container">
+    <div class="container" style="max-width: 95%;">
         <label for="year-filter">Select Year:</label>
         <select id="year-filter">
             <option value="">All Years</option>
@@ -39,37 +39,11 @@
         <button onclick="updateCharts()">Filter</button>
 
         <h2>Crime by Garda Region</h2>
-        <div id="bar-chart"></div>
+        <div id="bar-chart" style="width: 100%; height: 500px;"></div>
 
-        <h2>Crime Distribution by Type</h2>
-        <div id="pie-chart"></div>
+        <h2>Crime Trends Over Time</h2>
+        <div id="line-chart" style="width: 100%; height: 500px;"></div>
     </div>
-
-    <script>
-        function updateCharts() {
-            let year = document.getElementById("year-filter").value;
-            let crimeType = document.getElementById("type-filter").value;
-
-            fetch(`/bar_chart_data?year=${year}&type=${crimeType}`)
-                .then(response => response.json())
-                .then(data => {
-                    let fig = {
-                        x: data.map(row => row.garda_region),
-                        y: data.map(row => row.value),
-                        type: "bar",
-                    };
-                    Plotly.newPlot("bar-chart", [fig]);
-                });
-
-            fetch(`/crime_pie_chart`)
-                .then(response => response.json())
-                .then(data => {
-                    let fig = JSON.parse(data);
-                    Plotly.newPlot("pie-chart", fig.data, fig.layout);
-                });
-        }
-    </script>
-
 
     <footer>
         <div class="footer-content">
@@ -81,7 +55,5 @@
             </div>
         </div>
     </footer>
-    
-    
 </body>
 </html>

@@ -19,7 +19,7 @@
 
     <div class="container">
         <h1>Crime Safety Recommendations</h1>
-        <div id="concern-histogram"></div>
+        <div id="concern-histogram" style="width: 100%; height: 600px;"></div>
     </div>
 
     <footer>
@@ -41,14 +41,30 @@
             x: regions,
             y: concerns,
             type: 'bar',
-            marker: {color: 'blue'} // Optional: add color to bars
+            text: concerns.map(String),
+            textposition: 'auto',
+            hoverinfo: 'y+name',
+            marker: {
+                color: concerns,
+                colorscale: 'Viridis', // Use a gradient based on the values
+                line: {
+                    color: 'rgb(255,255,255)',
+                    width: 2
+                }
+            }
         }];
 
         var layout = {
             title: 'Histogram of High Concern Areas',
-            xaxis: {title: 'Regions'},
-            yaxis: {title: 'Average Concern Level'},
-            margin: {t: 60} // Adjust top margin to ensure title visibility
+            xaxis: {
+                title: 'Regions',
+                tickangle: -45 // Tilt the labels for better fitting and readability
+            },
+            yaxis: {
+                title: 'Average Concern Level'
+            },
+            bargap: 0.05, // Slight gap between bars to separate visually
+            margin: {t: 60, b: 150} // Adjust top and bottom margin to ensure title and labels visibility
         };
 
         Plotly.newPlot('concern-histogram', data, layout);

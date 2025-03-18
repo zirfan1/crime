@@ -11,20 +11,19 @@
     <div class="navbar">
         <h1 class="navbar-title">Crime Data Dashboard</h1>
         <nav>
-            <a href="{{ url_for('home') }}" class="{{ 'active' if current_path == url_for('home') else '' }}">Home</a>
-            <a href="{{ url_for('charts') }}" class="{{ 'active' if current_path == url_for('charts') else '' }}">Charts</a>
-            <a href="{{ url_for('feedback') }}" class="{{ 'active' if current_path == url_for('feedback') else '' }}">Feedback</a>
-            <a href="{{ url_for('recommendations') }}" class="{{ 'active' if current_path == url_for('recommendations') else '' }}">Recommendations</a>
+            <a href="{{ url_for('home') }}" class="{{ 'active' if request.path == url_for('home') else '' }}">Home</a>
+            <a href="{{ url_for('charts') }}" class="{{ 'active' if request.path == url_for('charts') else '' }}">Charts</a>
+            <a href="{{ url_for('feedback') }}" class="{{ 'active' if request.path == url_for('feedback') else '' }}">Feedback</a>
+            <a href="{{ url_for('recommendations') }}" class="{{ 'active' if request.path == url_for('recommendations') else '' }}">Recommendations</a>
         </nav>
     </div>
 
-    <div class="container">
-        <h2>Crime Summary by Garda Region</h2>
-        <div class="table-container">
-            {{ table|safe }}
-        </div>
+    <div class="banner">
+        <img src="{{ url_for('static', filename='banner.jpg') }}" alt="Banner" style="width:100%; height:auto;">
+    </div>
 
-        <h2>Crime Visualizations</h2>
+    <div class="container">
+        <h2>Crime Visualisations</h2>
         <label for="crimeFilter">Filter by Crime Type:</label>
         <select id="crimeFilter">
             <option value="all">All Crimes</option>
@@ -69,13 +68,12 @@
         updateCharts("all");
     </script>
 
-
     <footer>
         <div class="footer-content">
             <p>© 2025 Crime Data Dashboard. All rights reserved.</p>
             <p>Contact Us: <a href="mailto:support@crimedata.com">support@crimedata.com</a></p>
             <div class="footer-links">
-                <a href="/privacy">Privacy Policy</a> |
+                <a href="/privacy">Privacy Policy</a>
                 <a href="/terms">Terms of Service</a>
             </div>
         </div>
